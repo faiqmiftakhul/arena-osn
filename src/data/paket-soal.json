@@ -1,0 +1,650 @@
+{
+  "meta": {
+    "judul": "Try Out OSN IPS SD — Tingkat Provinsi (Bank Soal OSN 2025)",
+    "durasiDetik": 3600,
+    "jumlahPg": 40,
+    "jumlahIsian": 10
+  },
+  "soal": [
+    {
+      "id": 1,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pertanyaan": "Indonesia memiliki Zona Ekonomi Eksklusif (ZEE) sepanjang 200 mil dari garis pangkal teritorial. Di dalam wilayah ini, hak yang dimiliki oleh Indonesia di wilayah ZEE adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "memperluas wilayah daratan" },
+        { "kode": "B", "teks": "mengeksplorasi pemanfaatan laut" },
+        { "kode": "C", "teks": "memiliki hak penuh atas kapal asing" },
+        { "kode": "D", "teks": "mengatur batas laut internasional" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 2,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pertanyaan": "Perhatikan pernyataan pembentukan provinsi di Indonesia berikut! (1) Tahun 1945 Indonesia terdiri atas delapan provinsi; (2) Provinsi Banten hasil pemekaran dari Provinsi Jawa Barat; (3) Provinsi Sulawesi Barat hasil pemekaran dari Provinsi Sulawesi Selatan; (4) Daerah Istimewa Yogyakarta resmi menjadi Provinsi di Indonesia; (5) Provinsi Kalimantan Utara hasil pemekaran dari Kalimantan Timur. Urutan pembentukan provinsi baru yang tepat adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "Daerah Istimewa Yogyakarta, Banten, Sulawesi Barat, Kalimantan Utara" },
+        { "kode": "B", "teks": "Banten, Sulawesi Barat, Daerah Istimewa Yogyakarta, Kalimantan Utara" },
+        { "kode": "C", "teks": "Kalimantan Utara, Daerah Istimewa Yogyakarta, Banten, Sulawesi Barat" },
+        { "kode": "D", "teks": "Sulawesi Barat, Banten, Kalimantan Utara, Daerah Istimewa Yogyakarta" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 3,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "mudah",
+      "pertanyaan": "Perhatikan peta kawasan sekitar Singapura. Tanda X pada peta tersebut (di sebelah utara Singapura) merupakan negara ...",
+      "opsi": [
+        { "kode": "A", "teks": "Thailand" },
+        { "kode": "B", "teks": "Vietnam" },
+        { "kode": "C", "teks": "Malaysia" },
+        { "kode": "D", "teks": "Tiongkok" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 4,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pertanyaan": "Perhatikan tabel berikut! (1) Daerah tersebut memiliki banyak sawah irigasi; (2) Permukiman penduduk padat; (3) Daerah tersebut cocok untuk budidaya tanaman sayuran; (4) Memiliki suhu dingin dan udara sejuk. Urutan benar (B) dan salah (S) mengenai kenampakan alam dataran tinggi adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "B-B-S-B" },
+        { "kode": "B", "teks": "B-S-B-B" },
+        { "kode": "C", "teks": "S-S-B-B" },
+        { "kode": "D", "teks": "S-B-B-S" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 5,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pertanyaan": "Jika skala pada peta yakni 1:2.000.000 dan jarak dua kota pada peta adalah 3 cm, maka jarak sebenarnya dua kota tersebut adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "60 km" },
+        { "kode": "B", "teks": "6 km" },
+        { "kode": "C", "teks": "600 km" },
+        { "kode": "D", "teks": "6.000 km" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 6,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pertanyaan": "Perhatikan pernyataan berikut! (1) Garis Wallace membagi wilayah fauna Asiatis dan wilayah peralihan; (2) Garis Weber membatasi wilayah fauna Australia dengan wilayah peralihan; (3) Wilayah fauna asli Indonesia berada di antara garis Wallace dan Weber; (4) Pulau Kalimantan dan Sumatra memiliki hewan khas yang juga ditemukan di Asia; (5) Garis Wallace dan Weber merupakan batas wilayah endemik fauna di Indonesia. Pernyataan yang paling tepat tentang faktor-faktor yang menunjukkan adanya perbedaan persebaran fauna di Indonesia adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "(1), (2), dan (3)" },
+        { "kode": "B", "teks": "(1), (2), dan (4)" },
+        { "kode": "C", "teks": "(1), (3), dan (4)" },
+        { "kode": "D", "teks": "(1), (4), dan (5)" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 7,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pertanyaan": "Pengaruh kondisi geostrategis wilayah Indonesia adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "Indonesia berada di antara Samudra Hindia dan Samudra Atlantik yang mempercepat pengiriman barang" },
+        { "kode": "B", "teks": "Indonesia menjadi tempat bertemunya berbagai jalur perdagangan dari Asia ke Australia" },
+        { "kode": "C", "teks": "Letak strategis Indonesia menyebabkan timbulnya pergolakan budaya dari India dan Arab" },
+        { "kode": "D", "teks": "Posisi Indonesia membuat masyarakatnya hidup homogen dan tidak banyak budaya luar" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 8,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pertanyaan": "Perhatikan gambar satwa endemik Indonesia yang hidup di hutan tropis (burung rangkong/enggang). Perhatikan pernyataan berikut: (1) Perdagangan ilegal satwa liar; (2) Alih fungsi hutan menjadi perkebunan; (3) Keberadaan taman nasional yang terbatas; (4) Perburuan untuk dijadikan peliharaan; (5) Reboisasi dan konservasi yang diperluas. Pernyataan yang paling tepat tentang penyebab utama semakin menurunnya populasi satwa tersebut di Indonesia adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "(1), (2), dan (3)" },
+        { "kode": "B", "teks": "(1), (2), dan (4)" },
+        { "kode": "C", "teks": "(1), (3), dan (5)" },
+        { "kode": "D", "teks": "(2), (4), dan (5)" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 9,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "mudah",
+      "pertanyaan": "Perilaku yang menunjukkan pemanfaatan keanekaragaman hayati bagi kehidupan manusia adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "Perburuan satwa liar menjadi cara cepat memperoleh keuntungan ekonomi" },
+        { "kode": "B", "teks": "Berbagai jenis tanaman hutan dapat dijadikan bahan obat dan pangan" },
+        { "kode": "C", "teks": "Eksploitasi dilakukan secukupnya agar semua keanekaragaman cepat dimanfaatkan" },
+        { "kode": "D", "teks": "Tumbuhan dan hewan daerah menjadi daya tarik wisata komersil" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 10,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pertanyaan": "Perhatikan pernyataan berikut! (1) Kayu, ikan, dan kapas termasuk sumber daya alam hayati karena berasal dari makhluk hidup dan dapat diperbarui; (2) Emas, batu bara, dan minyak bumi termasuk sumber daya alam non-hayati karena berasal dari benda mati dan tidak dapat diperbarui; (3) Udara dan sinar matahari termasuk sumber daya non-hayati dan tidak terbatas jumlahnya; (4) Karet, kelapa, dan sayuran termasuk sumber daya non-hayati karena dapat dimakan atau dimanfaatkan; (5) Air, garam, dan pasir termasuk sumber daya alam non-hayati yang berguna dalam kehidupan manusia. Pilihan kombinasi pernyataan yang tepat adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "(1), (2), dan (4)" },
+        { "kode": "B", "teks": "(2), (3), dan (4)" },
+        { "kode": "C", "teks": "(1), (2), dan (3)" },
+        { "kode": "D", "teks": "(2), (4), dan (5)" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 11,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pertanyaan": "Perhatikan tabel berikut! (1) Menyela dan memotong pembicaraan orang lain; (2) Mempersilakan tempat duduk untuk lansia dan ibu hamil; (3) Tidak makan dan minum sambil berdiri; (4) Menunjuk dengan menggunakan tangan kiri dan kaki. Urutan benar (B) dan salah (S) berdasarkan tabel di atas adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "B-B-S-B" },
+        { "kode": "B", "teks": "B-S-B-B" },
+        { "kode": "C", "teks": "S-S-B-B" },
+        { "kode": "D", "teks": "S-B-B-S" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 12,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pertanyaan": "Pernyataan A: Masyarakat Indonesia mempunyai kepercayaan dan agama yang beragam sehingga dalam melakukan interaksi harus saling menghormati perbedaan ajaran dan ibadah masing-masing agama. Pernyataan B: Menjaga kerukunan antar pemeluk agama dapat dilakukan dengan cara menghindari perkataan yang menyinggung atau merendahkan agama lain. Berdasarkan pernyataan di atas, hubungan dua pernyataan yang tepat adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "pernyataan A benar, pernyataan B benar, dan ada hubungan" },
+        { "kode": "B", "teks": "pernyataan A benar, pernyataan B benar, tetapi tidak ada hubungan" },
+        { "kode": "C", "teks": "pernyataan A benar, pernyataan B salah" },
+        { "kode": "D", "teks": "pernyataan A salah, pernyataan B benar" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 13,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "mudah",
+      "pertanyaan": "Perhatikan gambar proses sosial (siswa bergotong royong membersihkan lingkungan sekolah). Perhatikan pernyataan: (1) Memiliki tujuan bersama membersihkan lingkungan sekolah; (2) Persaingan siswa untuk mendapatkan juara kelas; (3) Berbagi tugas dalam menyelesaikan tugas bersama; (4) Semua siswa terlibat aktif membersihkan lingkungan; (5) Bentrokan di antara siswa di lingkungan sekolah. Pernyataan yang paling tepat adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "(1), (2), dan (3)" },
+        { "kode": "B", "teks": "(1), (3), dan (4)" },
+        { "kode": "C", "teks": "(2), (4), dan (5)" },
+        { "kode": "D", "teks": "(3), (4), dan (5)" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 14,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pertanyaan": "Perhatikan tabel berikut! Lembaga Sosial: (1) Keluarga, (2) Pendidikan, (3) Ekonomi, (4) Agama. Fungsi: (A) Mengatur produksi, distribusi, dan konsumsi barang dan jasa; (B) Memberikan pedoman hidup spiritual dan moral; (C) Menyampaikan pengetahuan dan keterampilan; (D) Pemenuhan kebutuhan biologis dan kasih sayang. Pasangan lembaga dan fungsi yang tepat adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "1A, 2D, 3A, dan 4B" },
+        { "kode": "B", "teks": "1B, 2C, 3A, dan 4C" },
+        { "kode": "C", "teks": "1D, 2C, 3A, dan 4B" },
+        { "kode": "D", "teks": "1C, 2D, 3B, dan 4A" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 15,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sulit",
+      "pertanyaan": "Perhatikan tabel berikut! Suku: A. Minangkabau, B. Dayak, C. Bugis, D. Asmat, E. Sasak. Asal Daerah: 1. Lombok, 2. Papua, 3. Kalimantan, 4. Sulawesi Selatan, 5. Sumatera Barat. Budaya: a. Tarian perang tradisional, b. Tarian Pakarena, c. Tarian Gantar, d. Tari Piring, e. Tarian Peresean. Pengelompokan suku, asal daerah, dan budaya yang sesuai adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "(B), (1), dan (c)" },
+        { "kode": "B", "teks": "(C), (4), dan (b)" },
+        { "kode": "C", "teks": "(A), (3), dan (d)" },
+        { "kode": "D", "teks": "(E), (5), dan (e)" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 16,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pertanyaan": "Perhatikan pernyataan berikut! (1) Keluarga Inti (Nuclear Family) terdiri dari ayah, ibu, dan anak-anak, unit sosial terkecil dan paling mendasar; (2) Keluarga adalah tempat satu-satunya untuk kita mengetahui sesuatu yang baik dan yang buruk; (3) Keluarga Besar (Extended Family) meliputi kakek, nenek, paman, bibi, sepupu, dan kerabat lainnya; (4) Keluarga memberikan perlindungan fisik, emosional, dan ekonomi bagi anggotanya, terutama anak-anak; (5) Keluarga menjadi tempat berlangsungnya hukuman dengan kekerasan baik fisik maupun verbal. Pernyataan yang paling tepat adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "(1), (2), dan (3)" },
+        { "kode": "B", "teks": "(1), (3), dan (4)" },
+        { "kode": "C", "teks": "(2), (4), dan (5)" },
+        { "kode": "D", "teks": "(3), (4), dan (5)" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 17,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pertanyaan": "Perhatikan tabel berikut! (1) Keluarga adalah lembaga utama untuk melanjutkan keturunan dan memastikan kelangsungan hidup masyarakat; (2) Keluarga menjadi agen sosialisasi primer, tempat individu pertama kali belajar norma, nilai, kebiasaan, bahasa, dan peran sosial yang berlaku dalam masyarakat; (3) Terjadinya perubahan perilaku dalam keluarga anak mengakibatkan keluarga mengalami kemiskinan dan keterbelakangan; (4) Anak-anak mempelajari cara berinteraksi, memecahkan masalah, dan memahami dunia di sekitar mereka dari lingkungan keluarga. Urutan benar (B) dan salah (S) berdasarkan tabel di atas adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "B-B-S-B" },
+        { "kode": "B", "teks": "B-S-B-B" },
+        { "kode": "C", "teks": "S-S-B-B" },
+        { "kode": "D", "teks": "S-B-B-S" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 18,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pertanyaan": "Perhatikan gambar tradisi Pacu Jalur (perlombaan perahu) pada masyarakat Provinsi Riau. Berdasarkan gambar tersebut, bertahannya tradisi pada masyarakat Provinsi Riau ini adalah bentuk dari berfungsinya lembaga ...",
+      "opsi": [
+        { "kode": "A", "teks": "Pendidikan" },
+        { "kode": "B", "teks": "Agama" },
+        { "kode": "C", "teks": "Keluarga" },
+        { "kode": "D", "teks": "Budaya" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 19,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "mudah",
+      "pertanyaan": "Pada saat ujian IPAS di SD, Rio merasa kesulitan dengan beberapa soal. Ia melirik ke meja Dini dan melihat sekilas jawabannya. Godaan untuk menyontek muncul, namun Rio teringat pesan ibunya tentang kejujuran dan janji pada diri sendiri untuk selalu berbuat benar. Rio mengalihkan pandangan, berusaha keras mengerjakan soal sendiri meskipun tak semua terjawab sempurna. Nilai yang ditunjukkan oleh cerita di atas adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "Nilai Kebersihan" },
+        { "kode": "B", "teks": "Nilai Kerjasama" },
+        { "kode": "C", "teks": "Nilai Kesetiakawanan" },
+        { "kode": "D", "teks": "Nilai Kejujuran" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 20,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pertanyaan": "Di lingkungan sekolah, kamu diajarkan untuk mengucapkan salam kepada guru. Perilaku tersebut adalah mencerminkan ...",
+      "opsi": [
+        { "kode": "A", "teks": "norma tata krama di kelas yang melatih nilai disiplin dan nilai penghargaan terhadap orang lain" },
+        { "kode": "B", "teks": "norma kesopanan yang didasari oleh nilai penghormatan terhadap orang yang lebih tua dan memiliki kedudukan lebih tinggi (guru)" },
+        { "kode": "C", "teks": "norma kerja sama dan norma kejujuran, yang dilandasi oleh nilai tanggung jawab dan nilai keadilan" },
+        { "kode": "D", "teks": "norma kebersihan dan norma tanggung jawab sosial, yang didukung oleh nilai kebersihan dan nilai kepedulian terhadap lingkungan" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 21,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pertanyaan": "Perhatikan peta wilayah negara Malaysia. Salah satu komite kerja sama bidang ekonomi organisasi ASEAN berkedudukan di negara tersebut. Komite yang dimaksud adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "Committee on Transportation and Communication" },
+        { "kode": "B", "teks": "Committee on Cultural and Information" },
+        { "kode": "C", "teks": "Committee on Industry, Mining, and Energi" },
+        { "kode": "D", "teks": "Committee on Finance and Banking" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 22,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pertanyaan": "Perhatikan gambar badak bercula satu (Ujung Kulon). Perhatikan tabel: (1) Pelarangan perdagangan hewan langka ini merupakan bentuk embargo dari pemerintah; (2) Pelarangan penyelundupan cula badak dapat menurunkan daya saing produk Indonesia; (3) Taman Nasional Ujung Kulon menjadi tempat konservasi hewan langka tersebut; (4) Pelarangan perdagangan hewan langka ini mendukung pembangunan berkelanjutan. Urutan benar (B) dan salah (S) berdasarkan tabel di atas adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "S-S-B-B" },
+        { "kode": "B", "teks": "B-S-S-B" },
+        { "kode": "C", "teks": "B-S-B-S" },
+        { "kode": "D", "teks": "B-B-S-S" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 23,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "mudah",
+      "pertanyaan": "Perhatikan gambar bangunan berwarna emas dengan arsitektur agama Buddha yang menjadi destinasi wisata populer di kawasan Asia Tenggara. Bangunan tersebut dikenal dengan nama ...",
+      "opsi": [
+        { "kode": "A", "teks": "Angkor Wat di Kamboja" },
+        { "kode": "B", "teks": "Buu Long Temple di Vietnam" },
+        { "kode": "C", "teks": "Wat Phra Kaew di Thailand" },
+        { "kode": "D", "teks": "Pagoda Shwedagon di Myanmar" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 24,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pertanyaan": "Perhatikan pernyataan berikut! (1) Pak Maman memetik daun teh setiap pagi di kebun miliknya; (2) Tengkulak membawa sayuran untuk dijual ke kota; (3) Masyarakat adat menanam bibit padi di lahan tadah hujan; (4) PT Sinar Manis mengolah tebu menjadi gula pasir; (5) Kelapa sawit diolah menjadi margarin sebagai bahan pembuatan kue. Kegiatan produksi yang dilakukan masyarakat wilayah dataran rendah adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "(1), (3), dan (5)" },
+        { "kode": "B", "teks": "(2), (3), dan (4)" },
+        { "kode": "C", "teks": "(2), (3), dan (5)" },
+        { "kode": "D", "teks": "(3), (4), dan (5)" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 25,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pertanyaan": "Festival Pacu Jalur merupakan pesta rakyat kebanggaan masyarakat Riau. Perahu kayu berhias ukiran khas Riau ini beradu kecepatan melintasi Sungai Kuantan. Pada mulanya, di awal abad 17, masyarakat desa Rantau Kuantan menjadikan perahu ini untuk mengangkut hasil bumi seperti pisang dan tebu. Berdasarkan teks di atas, kegiatan ekonomi yang dilakukan masyarakat desa Rantau Kuantan adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "produksi" },
+        { "kode": "B", "teks": "distribusi" },
+        { "kode": "C", "teks": "konsumsi" },
+        { "kode": "D", "teks": "investasi" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 26,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sulit",
+      "pertanyaan": "Negara A memiliki komoditas ekspor selain beras adalah karet dibanding negara ASEAN lainnya, bahkan beberapa negara melakukan impor karet dari negara tersebut. Negara A juga menghasilkan komoditas ekspor lainnya yaitu suku cadang kendaraan, namun hasilnya tidak sebagus negara B. Pernyataan yang tepat tentang perdagangan internasional adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "Negara A mengimpor karet dari Negara B" },
+        { "kode": "B", "teks": "Negara B mengekspor beras ke Negara A" },
+        { "kode": "C", "teks": "Negara A mengekspor suku cadang kendaraan ke Negara B" },
+        { "kode": "D", "teks": "Negara A mengimpor suku cadang kendaraan dari Negara B" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 27,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pertanyaan": "Andi berkeinginan membeli barang keperluan sekolah. Namun Andi dihadapkan pada dua pilihan paket keperluan sekolah. Paket A harganya Rp120.000 dengan jaminan 6 bulan jika terjadi kerusakan, dan paket B harganya Rp200.000 sebelum potongan harga 40% dengan jaminan 9 bulan jika terjadi kerusakan. Keputusan untuk membeli keperluan sekolah yang tepat adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "Paket A karena harganya lebih murah, walaupun waktu jaminannya lebih pendek" },
+        { "kode": "B", "teks": "Paket B karena jaminannya lebih panjang walaupun harganya lebih mahal" },
+        { "kode": "C", "teks": "Paket B karena harganya lebih murah dengan jaminan yang lebih panjang" },
+        { "kode": "D", "teks": "Paket B, walaupun harganya sama namun jaminan kerusakan lebih lama" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 28,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pertanyaan": "Nabila disuruh ibunya pergi ke pasar untuk membeli berbagai kebutuhan, seperti sayur dan beras. Ia membayar dengan tunai, lalu menyimpan sebagian sisanya di celengan. Di rumah, ibunya mencatat pengeluaran dan sisa uang belanja untuk mengetahui berapa banyak uang yang masih tersedia. Fungsi uang yang tepat berdasarkan narasi adalah sebagai ...",
+      "opsi": [
+        { "kode": "A", "teks": "alat tukar, penyimpan kekayaan, dan satuan hitung" },
+        { "kode": "B", "teks": "alat investasi dan tabungan, alat ukur, dan alat produksi" },
+        { "kode": "C", "teks": "alat penyimpan barang, alat simpan-pinjam, dan alat produksi" },
+        { "kode": "D", "teks": "alat pengganti barter, penyimpan kekayaan, dan alat pembiayaan" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 29,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sulit",
+      "pertanyaan": "Perusahaan Tempe melakukan uji coba menggunakan kombinasi tenaga kerja dan mesin untuk menghasilkan jumlah produksi yang maksimal dengan biaya yang paling murah. Kombinasi A menghasilkan 30 wadah percetakan dengan biaya Rp2.000.000. Sedangkan kombinasi B menghasilkan 20 wadah percetakan dengan biaya Rp1.500.000. Kombinasi kegiatan produksi yang menguntungkan bagi pengusaha Tempe adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "Kombinasi A karena biaya produksi per-wadah percetakannya lebih murah dari kombinasi B" },
+        { "kode": "B", "teks": "Kombinasi B karena biaya produksi per-wadah percetakannya lebih murah dari kombinasi A" },
+        { "kode": "C", "teks": "Kombinasi B karena biaya produksinya lebih murah walaupun dengan jumlah produksinya hanya 20 wadah" },
+        { "kode": "D", "teks": "Kombinasi B karena hanya menggunakan 1 mesin dengan lebih banyak tenaga kerja" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 30,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "mudah",
+      "pertanyaan": "Bu Rahmi ingin membuka usaha jajanan di depan rumah dengan modal kurang lebih Rp500.000. Untuk mengoptimalkan modal yang dimiliki, Bu Rahmi membuat daftar kebutuhan usahanya, kemudian membandingkan harga kebutuhan usahanya di beberapa toko. Tindakan ekonomi yang menunjukkan penerapan prinsip ekonomi yang tepat berdasarkan cerita tersebut adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "memilih barang yang dibutuhkan dengan harga yang lebih murah" },
+        { "kode": "B", "teks": "membeli barang sebanyak-banyaknya agar usahanya cepat maju" },
+        { "kode": "C", "teks": "menambah modalnya agar dagangannya lebih banyak dan lengkap" },
+        { "kode": "D", "teks": "mengikuti tren pasar tanpa memperhitungkan biaya yang dikeluarkan" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 31,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pertanyaan": "Pernyataan A: Waruga adalah kubur batu yang berbentuk kubus atau bulat dan dibuat dari batu utuh. Pernyataan B: Waruga hanya ditemukan di Sawangan, Sulawesi Utara dan tidak ditemukan di daerah lainnya di Sulawesi. Berdasarkan pernyataan di atas, hubungan dua pernyataan yang tepat adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "pernyataan A benar, pernyataan B benar, dan ada hubungan" },
+        { "kode": "B", "teks": "pernyataan A benar, pernyataan B benar, tetapi tidak ada hubungan" },
+        { "kode": "C", "teks": "pernyataan A benar, pernyataan B salah" },
+        { "kode": "D", "teks": "pernyataan A salah, pernyataan B benar" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 32,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "mudah",
+      "pertanyaan": "Salah satu ciri kepercayaan animisme dalam masyarakat pra-aksara adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "percaya bahwa terdapat roh yang mendiami sebuah pohon dan gunung" },
+        { "kode": "B", "teks": "mempercayai proses reinkarnasi seperti pada agama Hindu dan Buddha" },
+        { "kode": "C", "teks": "tidak memiliki kepercayaan bahwa benda-benda di bumi memiliki jiwa" },
+        { "kode": "D", "teks": "mengikuti konsep Hukum karma seperti dalam agama Buddha" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 33,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pertanyaan": "Perhatikan pernyataan berikut tentang kerajaan Hindu Buddha dalam perdagangan di Asia Tenggara! (1) Menguasai jalur perdagangan antara India dan Tiongkok dengan pengendalian Selat Malaka dan Selat Sunda di abad ke-8 hingga abad ke-11; (2) Memiliki berbagai komoditas yang kaya seperti kayu gaharu, cengkih, pala, emas, dan timah; (3) Melakukan ekspedisi militer untuk menaklukkan bandar pelabuhan pesaing di sekitar Asia Tenggara; (4) Mendapatkan restu dan perlindungan dari Kaisar Tiongkok untuk berdagang dengan Tiongkok. Pernyataan yang menggambarkan peran dan kekayaan kerajaan di atas adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "Majapahit" },
+        { "kode": "B", "teks": "Sriwijaya" },
+        { "kode": "C", "teks": "Kutai" },
+        { "kode": "D", "teks": "Tarumanagara" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 34,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pertanyaan": "Perhatikan gambar Candi Borobudur. Candi tersebut adalah peninggalan dari dinasti ...",
+      "opsi": [
+        { "kode": "A", "teks": "Sanjaya" },
+        { "kode": "B", "teks": "Syailendra" },
+        { "kode": "C", "teks": "Sriwijaya" },
+        { "kode": "D", "teks": "Drupada" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 35,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pertanyaan": "Perhatikan peta Pulau Sumatera yang diberi nomor 1 (bagian selatan) hingga 4 (ujung paling utara/Aceh). Lokasi Kesultanan Islam pertama di Nusantara yang berdiri Abad ke-13 hingga abad ke-16 ditunjukkan oleh nomor ...",
+      "opsi": [
+        { "kode": "A", "teks": "1" },
+        { "kode": "B", "teks": "2" },
+        { "kode": "C", "teks": "3" },
+        { "kode": "D", "teks": "4" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 36,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pertanyaan": "Pernyataan A: Sunan Kalijaga adalah seorang ulama terkenal dan penasihat pemerintahan pada masa Majapahit, Demak, dan Pajang, serta menjadi anggota Walisongo. Pernyataan B: Sunan Kalijaga dikenal sebagai seniman dan arsitek yang mengajarkan Islam melalui wayang kulit, mengganti cerita Hindu dengan kisah ajaran Islam seperti Wayang Sadat dan Jamus Kalimasada. Berdasarkan pernyataan di atas, hubungan dua pernyataan yang tepat adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "pernyataan A benar, pernyataan B benar, dan ada hubungan" },
+        { "kode": "B", "teks": "pernyataan A benar, pernyataan B benar, tetapi tidak ada hubungan" },
+        { "kode": "C", "teks": "pernyataan A benar, pernyataan B salah" },
+        { "kode": "D", "teks": "pernyataan A salah, pernyataan B benar" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 37,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pertanyaan": "Pernyataan A: VOC adalah persekutuan dagang Belanda yang didirikan pada 20 Maret 1602, dan memiliki monopoli perdagangan di Asia dan Amerika. Pernyataan B: VOC memiliki hak-hak istimewa dari negara seperti memiliki tentara, mencetak mata uang, dan menyatakan perang. Berdasarkan pernyataan di atas, hubungan dua pernyataan yang tepat adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "pernyataan A benar, pernyataan B benar, dan ada hubungan" },
+        { "kode": "B", "teks": "pernyataan A benar, pernyataan B benar, tetapi tidak ada hubungan" },
+        { "kode": "C", "teks": "pernyataan A benar, pernyataan B salah" },
+        { "kode": "D", "teks": "pernyataan A salah, pernyataan B benar" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 38,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pertanyaan": "Perhatikan pernyataan berikut! (1) Raffles menghapus sistem perdagangan budak dan memperkenalkan otonomi terbatas di Jawa; (2) Ia melakukan penelitian dan dokumentasi flora, fauna, serta peninggalan sejarah seperti Candi Borobudur dan Prambanan; (3) Raffles diangkat menjadi Gubernur Sumatra tanpa ada dukungan dari pihak Inggris; (4) Ia memimpin diplomasi dengan raja-raja Nusantara dengan tujuan mengakui kedaulatan pemerintah Inggris. Urutan benar (B) dan salah (S) berdasarkan pernyataan di atas adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "B-B-S-B" },
+        { "kode": "B", "teks": "B-S-B-B" },
+        { "kode": "C", "teks": "S-S-B-B" },
+        { "kode": "D", "teks": "S-B-B-S" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 39,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pertanyaan": "Perhatikan gambar (lukisan seorang tokoh pejuang memegang rencong/parang). Tokoh tersebut adalah kunci perlawanan terhadap kolonialisme Belanda dalam perang yang terjadi di ...",
+      "opsi": [
+        { "kode": "A", "teks": "Aceh" },
+        { "kode": "B", "teks": "Maluku" },
+        { "kode": "C", "teks": "Bali" },
+        { "kode": "D", "teks": "Sulawesi" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 40,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pertanyaan": "Perhatikan pernyataan berikut! (1) Teuku Umar mulai berjuang melawan Belanda sejak umur 19 tahun di kampungnya dan Aceh Barat; (2) Pada usia muda, Teuku Umar sudah diangkat menjadi Keuchik Gampong di Padang; (3) Teuku Umar menikahi Nyak Sofiah dan Nyak Malighai, namun tidak menikahi Cut Nyak Dhien; (4) Teuku Umar dan Cut Nyak Dhien bersama-sama melancarkan serangan terhadap pos-pos Belanda setelah menikah. Urutan benar (B) dan salah (S) berdasarkan pernyataan di atas adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "S-S-B-B" },
+        { "kode": "B", "teks": "B-S-B-B" },
+        { "kode": "C", "teks": "B-S-S-B" },
+        { "kode": "D", "teks": "S-B-B-S" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 41,
+      "tipe": "isian",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "mudah",
+      "pertanyaan": "Indonesia adalah negara maritim dengan ribuan pulau besar dan kecil dengan 38 provinsi di dalamnya. Kepulauan yang memiliki provinsi terbanyak di Indonesia adalah ....",
+      "kunci": ["sumatera", "pulau sumatera", "kepulauan sumatera", "sumatra"]
+    },
+    {
+      "id": 42,
+      "tipe": "isian",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pertanyaan": "Flora dan Fauna di Indonesia dibagi menjadi tiga, yakni tipe Asiatis (wilayah barat), tipe .... (wilayah tengah), dan tipe Australis (wilayah timur).",
+      "kunci": ["peralihan", "tipe peralihan", "asia-australis", "asiatis-australis"]
+    },
+    {
+      "id": 43,
+      "tipe": "isian",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pertanyaan": "Perhatikan gambar terasering pada lahan pertanian. Bentuk terasering yang menyempit (bertingkat-tingkat sempit) umumnya berada pada wilayah dengan kemiringan lereng ....",
+      "kunci": ["curam", "terjal", "lereng curam", "besar", "tinggi"]
+    },
+    {
+      "id": 44,
+      "tipe": "isian",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pertanyaan": "Proses sosial asosiatif merupakan interaksi sosial yang bersifat membangun dan mempererat hubungan antarindividu maupun kelompok dalam masyarakat. Kebersamaan dan sikap terbuka tersebut dapat membentuk proses penerimaan dan pengolahan unsur budaya asing tanpa menghilangkan identitas budaya asli, yang disebut ....",
+      "kunci": ["akulturasi"]
+    },
+    {
+      "id": 45,
+      "tipe": "isian",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pertanyaan": "Masyarakat Indonesia terdiri dari berbagai suku bangsa dan budaya sehingga sering terjadi asimilasi. Namun, dalam masyarakat yang beragam, adanya perbedaan serta terjadinya konflik bisa saja terjadi. Hal ini dapat ditangani dengan proses .... sebagai upaya menyelesaikan konflik atau ketegangan antarindividu atau kelompok.",
+      "kunci": ["akomodasi"]
+    },
+    {
+      "id": 46,
+      "tipe": "isian",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pertanyaan": "Aura Farming pada tradisi pacu jalur di Provinsi Riau menjadi isu global dan menjadi topik yang sering dibahas di berbagai media sosial. Dampaknya, tradisi Pacu Jalur menjadi terkenal di berbagai negara di dunia. Peristiwa tersebut dapat terjadi dengan dukungan perkembangan teknologi, terutama pada teknologi ....",
+      "kunci": ["informasi dan komunikasi", "komunikasi", "informasi", "komunikasi dan informasi", "teknologi informasi"]
+    },
+    {
+      "id": 47,
+      "tipe": "isian",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pertanyaan": "Indonesia dikenal sebagai negara maritim karena sebagian besar wilayahnya terdiri dari laut. Berbagai kegiatan seperti perikanan, pelayaran, dan pariwisata bahari merupakan bagian aktivitas masyarakat yang berada di wilayah pesisir. Bentuk kegiatan ekonomi yang memanfaatkan sumber tersebut dikenal dengan sebutan ....",
+      "kunci": ["ekonomi maritim", "maritim", "ekonomi kelautan"]
+    },
+    {
+      "id": 48,
+      "tipe": "isian",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sulit",
+      "pertanyaan": "Masyarakat Baduy memiliki lumbung padi tradisional yang disebut Leuit. Masing-masing kepala keluarga menyisihkan sebagian dari hasil panen dan menyimpannya di Leuit sehingga tersedia cadangan bahan pangan. Kearifan lokal Leuit ini mencerminkan konsep .... pada saat menghadapi musim kemarau atau gagal panen.",
+      "kunci": ["ketahanan pangan", "cadangan pangan", "lumbung pangan"]
+    },
+    {
+      "id": 49,
+      "tipe": "isian",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pertanyaan": "Sebuah organisasi pendidikan yang didirikan oleh Ki Hadjar Dewantara pada tanggal 3 Juli tahun 1922 di Yogyakarta sebagai bentuk perjuangan dalam menentang penjajahan dan mencerdaskan kehidupan bangsa bernama ....",
+      "kunci": ["taman siswa", "tamansiswa", "perguruan taman siswa", "national onderwijs institut taman siswa"]
+    },
+    {
+      "id": 50,
+      "tipe": "isian",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pertanyaan": "Sebuah perundingan antara Indonesia dan Belanda di Den Haag pada Agustus sampai November 1949 yang menghasilkan pengakuan kemerdekaan dan kedaulatan Republik Indonesia Serikat (Konferensi Meja Bundar) dipimpin oleh seorang tokoh bernama ....",
+      "kunci": ["mohammad hatta", "moh hatta", "moh. hatta", "mohammad hatta", "hatta", "drs. mohammad hatta"]
+    }
+  ]
+}

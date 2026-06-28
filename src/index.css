@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+/* ============================================================
+   Tema warna Try Out OSN IPS SD (PRD §9.1)
+   Dominan putih + oranye #e18a29, aksen kuning #dab724
+   ============================================================ */
+@theme {
+  /* Warna utama */
+  --color-jingga: #e18a29;
+  --color-jingga-tua: #c0721c;
+  --color-jingga-muda: #f6d9b4;
+  --color-jingga-lembut: #fbeede;
+
+  /* Warna aksen */
+  --color-kuning: #dab724;
+  --color-kuning-muda: #f3e7a6;
+  --color-kuning-lembut: #faf3cf;
+
+  /* Netral & status */
+  --color-tinta: #3a3a3a;
+  --color-garis: #e7e4dd;
+  --color-sukses: #3f9d5a;
+  --color-bahaya: #d24b3e;
+
+  /* Tipografi ramah anak */
+  --font-sans: "Baloo 2", "Nunito", ui-rounded, system-ui, -apple-system,
+    "Segoe UI", sans-serif;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-jingga-lembut);
+  color: var(--color-tinta);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
