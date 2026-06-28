@@ -9,7 +9,14 @@ import { useExam } from '../exam/ExamContext'
  */
 export default function StartPage() {
   const navigate = useNavigate()
-  const { resetSesi, sesiSedangBerjalan, nama: namaSesi, paket } = useExam()
+  const {
+    resetSesi,
+    sesiSedangBerjalan,
+    nama: namaSesi,
+    paket,
+    daftarPaket,
+    gantiPaket,
+  } = useExam()
   const [nama, setNama] = useState(namaSesi)
   const [modeDemo, setModeDemo] = useState(false)
 
@@ -55,6 +62,27 @@ export default function StartPage() {
               </button>
             </div>
           )}
+
+          {/* Pemilih paket soal */}
+          <label className="mb-6 block">
+            <span className="text-sm font-semibold text-tinta">Pilih Paket Soal</span>
+            <select
+              value={paket.meta.id}
+              onChange={(e) => gantiPaket(e.target.value)}
+              className="mt-2 w-full rounded-xl border border-garis bg-white px-4 py-3 text-tinta outline-none focus:border-jingga focus:ring-2 focus:ring-jingga/30"
+            >
+              {daftarPaket.map((p) => (
+                <option key={p.meta.id} value={p.meta.id}>
+                  {p.meta.kode} — {p.meta.judul}
+                </option>
+              ))}
+            </select>
+            {sesiSedangBerjalan && (
+              <span className="mt-1 block text-xs text-tinta/50">
+                Mengganti paket akan menghapus sesi yang belum selesai.
+              </span>
+            )}
+          </label>
 
           {/* Ringkasan aturan */}
           <div className="rounded-2xl bg-jingga-lembut ring-1 ring-jingga-muda p-5">

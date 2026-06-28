@@ -16,10 +16,43 @@ export interface OpsiPg {
   teks: string
 }
 
+/** Satu butir pada daftar pernyataan, mis. label "1" / "A" dengan teksnya. */
+export interface ItemPernyataan {
+  label: string
+  teks: string
+}
+
+/** Konten tabel: baris pertama dianggap header bila `kolom` diisi. */
+export interface KontenTabel {
+  kolom: string[] // judul kolom (header)
+  baris: string[][] // tiap baris berisi sel-sel sejajar `kolom`
+}
+
+/**
+ * Ilustrasi soal. `jenis: 'svg'` merujuk komponen gambar bawaan lewat `svgId`;
+ * `jenis: 'deskripsi'` menampilkan deskripsi gambar dalam bentuk kalimat
+ * (dipakai bila gambar sulit digambar ulang).
+ */
+export interface KontenGambar {
+  jenis: 'svg' | 'deskripsi'
+  svgId?: string // id komponen ilustrasi (lihat exam/ilustrasi)
+  deskripsi?: string // teks pengganti / keterangan gambar
+  alt?: string // teks alternatif aksesibilitas
+}
+
 interface SoalDasar {
   id: number
   materi: Materi
   kesulitan: Kesulitan
+  /** Kalimat pembuka/konteks sebelum stimulus (opsional). */
+  pengantar?: string
+  /** Ilustrasi/peta soal (opsional). */
+  gambar?: KontenGambar
+  /** Stimulus berbentuk tabel (opsional). */
+  tabel?: KontenTabel
+  /** Stimulus berbentuk daftar pernyataan (opsional). */
+  pernyataan?: ItemPernyataan[]
+  /** Kalimat pertanyaan inti (selalu ada). */
   pertanyaan: string
 }
 
@@ -37,6 +70,10 @@ export interface SoalIsian extends SoalDasar {
 export type Soal = SoalPg | SoalIsian
 
 export interface PaketMeta {
+  /** Pengenal unik paket, mis. "paket-1". */
+  id: string
+  /** Label singkat, mis. "Paket 1". */
+  kode: string
   judul: string
   durasiDetik: number
   jumlahPg: number

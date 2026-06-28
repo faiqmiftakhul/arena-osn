@@ -7,7 +7,7 @@ import {
   useState,
   type ReactNode,
 } from 'react'
-import { paketSoal } from '../data'
+import { cariPaket, daftarPaket } from '../data'
 import type { PaketSoal } from '../types'
 import { hapusSesi, muatSesi, simpanSesi } from './penyimpanan'
 
@@ -19,6 +19,10 @@ import { hapusSesi, muatSesi, simpanSesi } from './penyimpanan'
  */
 interface ExamSession {
   paket: PaketSoal
+  /** Semua paket yang tersedia (untuk pemilih paket). */
+  daftarPaket: PaketSoal[]
+  /** Ganti paket aktif; otomatis memulai sesi baru yang bersih. */
+  gantiPaket: (id: string) => void
   nama: string
   setNama: (n: string) => void
 
@@ -63,7 +67,10 @@ function sisaAwal(
 }
 
 export function ExamProvider({ children }: { children: ReactNode }) {
-  const paket = paketSoal
+  const [paketId, setPaketId] = useState(
+    tersimpan?.paketId ?? daftarPaket[0].meta.id,
+  )
+  const paket = useMemo(() => cariPaket(paketId), [paketId])
   const total = paket.soal.length
   const durasiDefault = paket.meta.durasiDetik
 
@@ -131,6 +138,20 @@ export function ExamProvider({ children }: { children: ReactNode }) {
     [durasiDefault],
   )
 
+  const gantiPaket = useCallback((id: string) => {
+    const p = cariPaket(id)
+    hapusSesi()
+    setPaketId(p.meta.id)
+    const durasi = p.meta.durasiDetik
+    setDurasiDetik(durasi)
+    setJawabanState({})
+    setRagu(new Set())
+    setIndexAktif(0)
+    setMulaiPada(null)
+    setSelesai(false)
+    setSisaDetik(durasi)
+  }, [])
+
   // Detak timer: hitung sisa waktu dari selisih timestamp tiap detik.
   useEffect(() => {
     if (mulaiPada == null || selesai) return
@@ -153,8 +174,9 @@ export function ExamProvider({ children }: { children: ReactNode }) {
       mulaiPada,
       selesai,
       durasiDetik,
+      paketId,
     })
-  }, [nama, jawaban, ragu, indexAktif, mulaiPada, selesai, durasiDetik])
+  }, [nama, jawaban, ragu, indexAktif, mulaiPada, selesai, durasiDetik, paketId])
 
   const waktuHabis = mulaiPada != null && sisaDetik <= 0
 
@@ -168,6 +190,8 @@ export function ExamProvider({ children }: { children: ReactNode }) {
   const value = useMemo<ExamSession>(
     () => ({
       paket,
+      daftarPaket,
+      gantiPaket,
       nama,
       setNama,
       jawaban,
@@ -190,6 +214,7 @@ export function ExamProvider({ children }: { children: ReactNode }) {
     }),
     [
       paket,
+      gantiPaket,
       nama,
       jawaban,
       setJawaban,

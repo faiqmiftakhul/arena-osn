@@ -11,6 +11,8 @@ export interface SesiTersimpan {
   selesai: boolean
   /** Durasi sesi dalam detik (mendukung mode demo cepat). Opsional demi kompatibilitas. */
   durasiDetik?: number
+  /** Id paket soal yang sedang dikerjakan. Opsional demi kompatibilitas. */
+  paketId?: string
 }
 
 export function muatSesi(): SesiTersimpan | null {
