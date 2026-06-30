@@ -1,6 +1,7 @@
 {
   "meta": {
     "id": "paket-2",
+    "cabangId": "ips-sd",
     "kode": "Paket 2",
     "judul": "Paket 2 — OSN IPS SD Tingkat Provinsi",
     "durasiDetik": 3600,

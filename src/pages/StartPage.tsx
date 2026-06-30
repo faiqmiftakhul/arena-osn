@@ -1,11 +1,12 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useExam } from '../exam/ExamContext'
+import { JENJANG, cabangPunyaPaket } from '../data'
 
 /**
  * Halaman Mulai (PRD §7.1).
- * M4: form nama + ringkasan aturan + mulai sesi; deteksi sesi tersimpan
- * untuk Lanjutkan / Mulai Baru (FR-5).
+ * M4: form nama + ringkasan aturan + mulai sesi; deteksi sesi tersimpan.
+ * Multi-jenjang & multi-cabang: pilih Jenjang → Cabang → Paket.
  */
 export default function StartPage() {
   const navigate = useNavigate()
@@ -14,18 +15,25 @@ export default function StartPage() {
     sesiSedangBerjalan,
     nama: namaSesi,
     paket,
-    daftarPaket,
     gantiPaket,
+    daftarCabang,
+    cabangAktif,
+    daftarPaketCabang,
+    gantiCabang,
   } = useExam()
   const [nama, setNama] = useState(namaSesi)
   const [modeDemo, setModeDemo] = useState(false)
+  const [jenjangTampil, setJenjangTampil] = useState(
+    cabangAktif?.jenjang ?? 'SD',
+  )
 
   const { jumlahPg, jumlahIsian, durasiDetik } = paket.meta
   const totalSoal = jumlahPg + jumlahIsian
   const durasiMenit = Math.round(durasiDetik / 60)
 
+  const cabangJenjang = daftarCabang.filter((c) => c.jenjang === jenjangTampil)
+
   function mulaiBaru() {
-    // Mode demo: durasi 1 menit agar auto-submit mudah diperagakan.
     resetSesi(nama.trim(), modeDemo ? 60 : undefined)
     navigate('/ujian')
   }
@@ -63,29 +71,90 @@ export default function StartPage() {
             </div>
           )}
 
-          {/* Pemilih paket soal */}
-          <label className="mb-6 block">
-            <span className="text-sm font-semibold text-tinta">Pilih Paket Soal</span>
-            <select
-              value={paket.meta.id}
-              onChange={(e) => gantiPaket(e.target.value)}
-              className="mt-2 w-full rounded-xl border border-garis bg-white px-4 py-3 text-tinta outline-none focus:border-jingga focus:ring-2 focus:ring-jingga/30"
-            >
-              {daftarPaket.map((p) => (
-                <option key={p.meta.id} value={p.meta.id}>
-                  {p.meta.kode} — {p.meta.judul}
-                </option>
-              ))}
-            </select>
-            {sesiSedangBerjalan && (
-              <span className="mt-1 block text-xs text-tinta/50">
-                Mengganti paket akan menghapus sesi yang belum selesai.
+          {/* Pilih jenjang */}
+          <span className="text-sm font-semibold text-tinta">Pilih Jenjang</span>
+          <div className="mt-2 flex gap-2">
+            {JENJANG.map((j) => (
+              <button
+                key={j}
+                onClick={() => setJenjangTampil(j)}
+                className={`flex-1 rounded-xl px-4 py-2 text-sm font-bold transition ${
+                  jenjangTampil === j
+                    ? 'bg-jingga text-white shadow-sm'
+                    : 'bg-jingga-lembut text-tinta hover:brightness-95'
+                }`}
+              >
+                {j}
+              </button>
+            ))}
+          </div>
+
+          {/* Pilih cabang */}
+          <span className="mt-5 block text-sm font-semibold text-tinta">
+            Pilih Cabang
+          </span>
+          <div className="mt-2 grid grid-cols-2 gap-2 sm:grid-cols-3">
+            {cabangJenjang.map((c) => {
+              const ada = cabangPunyaPaket(c.id)
+              const aktif = cabangAktif?.id === c.id
+              return (
+                <button
+                  key={c.id}
+                  onClick={() => ada && gantiCabang(c.id)}
+                  disabled={!ada}
+                  title={ada ? c.deskripsi : 'Segera hadir'}
+                  className={`relative flex flex-col items-center gap-1 rounded-xl border-2 px-2 py-3 text-center transition ${
+                    aktif
+                      ? 'border-jingga bg-jingga-lembut'
+                      : ada
+                        ? 'border-garis bg-white hover:border-jingga/40 hover:bg-jingga-lembut/40'
+                        : 'cursor-not-allowed border-garis bg-slate-50 opacity-60'
+                  }`}
+                >
+                  <span className="text-2xl" aria-hidden="true">
+                    {c.ikon}
+                  </span>
+                  <span className="text-sm font-semibold text-tinta">
+                    {c.nama}
+                  </span>
+                  {!ada && (
+                    <span className="text-[10px] font-semibold uppercase tracking-wide text-tinta/40">
+                      Segera hadir
+                    </span>
+                  )}
+                </button>
+              )
+            })}
+          </div>
+
+          {/* Pilih paket dalam cabang aktif */}
+          {cabangAktif && daftarPaketCabang.length > 0 && (
+            <label className="mt-5 block">
+              <span className="text-sm font-semibold text-tinta">
+                Pilih Paket Soal · {cabangAktif.nama} {cabangAktif.jenjang}
               </span>
-            )}
-          </label>
+              <select
+                value={paket.meta.id}
+                onChange={(e) => gantiPaket(e.target.value)}
+                className="mt-2 w-full rounded-xl border border-garis bg-white px-4 py-3 text-tinta outline-none focus:border-jingga focus:ring-2 focus:ring-jingga/30"
+              >
+                {daftarPaketCabang.map((p) => (
+                  <option key={p.meta.id} value={p.meta.id}>
+                    {p.meta.kode} — {p.meta.judul}
+                  </option>
+                ))}
+              </select>
+              {sesiSedangBerjalan && (
+                <span className="mt-1 block text-xs text-tinta/50">
+                  Mengganti cabang atau paket akan menghapus sesi yang belum
+                  selesai.
+                </span>
+              )}
+            </label>
+          )}
 
           {/* Ringkasan aturan */}
-          <div className="rounded-2xl bg-jingga-lembut ring-1 ring-jingga-muda p-5">
+          <div className="mt-6 rounded-2xl bg-jingga-lembut ring-1 ring-jingga-muda p-5">
             <h2 className="font-bold text-tinta">Ketentuan Try Out</h2>
             <ul className="mt-2 space-y-1 text-sm text-tinta/80">
               <li>

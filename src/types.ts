@@ -11,6 +11,25 @@ export type Materi =
   | 'Kegiatan Ekonomi'
   | 'Sejarah Indonesia'
 
+/** Jenjang pendidikan peserta OSN. */
+export type Jenjang = 'SD' | 'SMP' | 'SMA'
+
+/**
+ * Cabang (mata pelajaran) OSN pada satu jenjang, mis. IPS SD, Matematika SMA.
+ * Sebuah cabang bisa belum memiliki paket soal (status "segera hadir").
+ */
+export interface CabangOSN {
+  /** Pengenal unik, mis. "ips-sd". */
+  id: string
+  /** Nama cabang, mis. "IPS". */
+  nama: string
+  jenjang: Jenjang
+  /** Emoji ikon untuk tampilan kartu (opsional). */
+  ikon?: string
+  /** Keterangan singkat (opsional). */
+  deskripsi?: string
+}
+
 export interface OpsiPg {
   kode: string // "A".."D"
   teks: string
@@ -72,6 +91,8 @@ export type Soal = SoalPg | SoalIsian
 export interface PaketMeta {
   /** Pengenal unik paket, mis. "paket-1". */
   id: string
+  /** Cabang OSN tempat paket ini bernaung, mis. "ips-sd". */
+  cabangId: string
   /** Label singkat, mis. "Paket 1". */
   kode: string
   judul: string

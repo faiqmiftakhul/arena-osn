@@ -7,8 +7,14 @@ import {
   useState,
   type ReactNode,
 } from 'react'
-import { cariPaket, daftarPaket } from '../data'
-import type { PaketSoal } from '../types'
+import {
+  cariCabang,
+  cariPaket,
+  daftarCabang,
+  daftarPaket,
+  paketCabang,
+} from '../data'
+import type { CabangOSN, PaketSoal } from '../types'
 import { hapusSesi, muatSesi, simpanSesi } from './penyimpanan'
 
 /**
@@ -23,6 +29,15 @@ interface ExamSession {
   daftarPaket: PaketSoal[]
   /** Ganti paket aktif; otomatis memulai sesi baru yang bersih. */
   gantiPaket: (id: string) => void
+
+  /** Semua cabang OSN lintas jenjang (untuk pemilih jenjang/cabang). */
+  daftarCabang: CabangOSN[]
+  /** Cabang yang sedang aktif. */
+  cabangAktif: CabangOSN | undefined
+  /** Paket-paket yang tersedia dalam cabang aktif. */
+  daftarPaketCabang: PaketSoal[]
+  /** Ganti cabang aktif; otomatis memilih paket pertama & memulai sesi baru. */
+  gantiCabang: (id: string) => void
   nama: string
   setNama: (n: string) => void
 
@@ -67,10 +82,14 @@ function sisaAwal(
 }
 
 export function ExamProvider({ children }: { children: ReactNode }) {
-  const [paketId, setPaketId] = useState(
-    tersimpan?.paketId ?? daftarPaket[0].meta.id,
+  const paketAwal = cariPaket(tersimpan?.paketId)
+  const [cabangId, setCabangId] = useState(
+    tersimpan?.cabangId ?? paketAwal.meta.cabangId,
   )
+  const [paketId, setPaketId] = useState(paketAwal.meta.id)
   const paket = useMemo(() => cariPaket(paketId), [paketId])
+  const cabangAktif = useMemo(() => cariCabang(cabangId), [cabangId])
+  const daftarPaketCabang = useMemo(() => paketCabang(cabangId), [cabangId])
   const total = paket.soal.length
   const durasiDefault = paket.meta.durasiDetik
 
@@ -152,6 +171,23 @@ export function ExamProvider({ children }: { children: ReactNode }) {
     setSisaDetik(durasi)
   }, [])
 
+  const gantiCabang = useCallback((id: string) => {
+    const list = paketCabang(id)
+    if (list.length === 0) return // cabang "segera hadir" — abaikan
+    const p = list[0]
+    hapusSesi()
+    setCabangId(id)
+    setPaketId(p.meta.id)
+    const durasi = p.meta.durasiDetik
+    setDurasiDetik(durasi)
+    setJawabanState({})
+    setRagu(new Set())
+    setIndexAktif(0)
+    setMulaiPada(null)
+    setSelesai(false)
+    setSisaDetik(durasi)
+  }, [])
+
   // Detak timer: hitung sisa waktu dari selisih timestamp tiap detik.
   useEffect(() => {
     if (mulaiPada == null || selesai) return
@@ -175,8 +211,9 @@ export function ExamProvider({ children }: { children: ReactNode }) {
       selesai,
       durasiDetik,
       paketId,
+      cabangId,
     })
-  }, [nama, jawaban, ragu, indexAktif, mulaiPada, selesai, durasiDetik, paketId])
+  }, [nama, jawaban, ragu, indexAktif, mulaiPada, selesai, durasiDetik, paketId, cabangId])
 
   const waktuHabis = mulaiPada != null && sisaDetik <= 0
 
@@ -192,6 +229,10 @@ export function ExamProvider({ children }: { children: ReactNode }) {
       paket,
       daftarPaket,
       gantiPaket,
+      daftarCabang,
+      cabangAktif,
+      daftarPaketCabang,
+      gantiCabang,
       nama,
       setNama,
       jawaban,
@@ -215,6 +256,9 @@ export function ExamProvider({ children }: { children: ReactNode }) {
     [
       paket,
       gantiPaket,
+      cabangAktif,
+      daftarPaketCabang,
+      gantiCabang,
       nama,
       jawaban,
       setJawaban,

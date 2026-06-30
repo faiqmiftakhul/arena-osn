@@ -1,6 +1,7 @@
 {
   "meta": {
     "id": "paket-1",
+    "cabangId": "ips-sd",
     "kode": "Paket 1",
     "judul": "Paket 1 — Bank Soal OSN IPS SD 2025",
     "durasiDetik": 3600,

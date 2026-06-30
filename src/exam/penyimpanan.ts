@@ -13,6 +13,8 @@ export interface SesiTersimpan {
   durasiDetik?: number
   /** Id paket soal yang sedang dikerjakan. Opsional demi kompatibilitas. */
   paketId?: string
+  /** Id cabang OSN yang sedang dipilih. Opsional demi kompatibilitas. */
+  cabangId?: string
 }
 
 export function muatSesi(): SesiTersimpan | null {
