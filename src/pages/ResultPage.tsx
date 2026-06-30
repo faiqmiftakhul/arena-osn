@@ -27,7 +27,7 @@ export default function ResultPage() {
         <div className="overflow-hidden rounded-3xl bg-white shadow-xl ring-1 ring-garis">
           <div className="bg-jingga px-8 py-6 text-center text-white">
             <p className="text-sm font-semibold opacity-90">HASIL TRY OUT</p>
-            <h1 className="mt-1 text-2xl font-extrabold">Try Out OSN IPS SD</h1>
+            <h1 className="mt-1 text-2xl font-extrabold">Arena OSN</h1>
             {nama && <p className="mt-1 text-white/90">Peserta: {nama}</p>}
           </div>
 

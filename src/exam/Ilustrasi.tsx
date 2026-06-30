@@ -100,10 +100,119 @@ function Terasering() {
   )
 }
 
+/** Peta skematik persebaran fauna Indonesia: garis Wallace & Weber, tanda X di wilayah tengah (Paket 2 no. 3). */
+function PetaFaunaIndonesia() {
+  return (
+    <svg viewBox="0 0 460 240" className="h-auto w-full max-w-lg" role="img"
+      aria-label="Peta persebaran fauna Indonesia dengan garis Wallace dan Weber; tanda X berada di wilayah tengah.">
+      <rect x="0" y="0" width="460" height="240" fill="#cfe8f3" />
+      {/* Wilayah barat (Asiatis): Sumatera, Kalimantan, Jawa */}
+      <g fill="#bfe3b4" stroke="#7bbf6a">
+        <ellipse cx="55" cy="95" rx="38" ry="20" transform="rotate(-30 55 95)" />
+        <ellipse cx="120" cy="80" rx="44" ry="30" />
+        <ellipse cx="95" cy="160" rx="40" ry="13" />
+      </g>
+      {/* Wilayah tengah (Peralihan): Sulawesi + tanda X */}
+      <path d="M250 60 q15 25 0 45 q20 10 12 35 q-18 5 -22 -12 q-14 8 -20 -6 q12 -10 6 -26 q-16 -2 -8 -18 q18 4 22 -10 q14 -6 10 18 Z"
+        fill="#f7d488" stroke="#d6a64a" />
+      <text x="247" y="100" textAnchor="middle" fontSize="30" fontWeight="800" fill="#dc2626">✕</text>
+      {/* Wilayah timur (Australis): Papua */}
+      <path d="M360 70 q50 -10 80 20 q-10 25 -45 22 q-30 8 -45 -12 q5 -22 10 -30 Z"
+        fill="#bfe3b4" stroke="#7bbf6a" />
+      {/* Garis Wallace (antara barat & tengah) */}
+      <line x1="190" y1="20" x2="200" y2="220" stroke="#dc2626" strokeWidth="2.5" strokeDasharray="8 5" />
+      <text x="160" y="232" fontSize="11" fontWeight="700" fill="#dc2626">Garis Wallace</text>
+      {/* Garis Weber (antara tengah & timur) */}
+      <line x1="320" y1="20" x2="330" y2="220" stroke="#1d4ed8" strokeWidth="2.5" strokeDasharray="8 5" />
+      <text x="300" y="16" fontSize="11" fontWeight="700" fill="#1d4ed8">Garis Weber</text>
+      {/* Label zona */}
+      <text x="70" y="200" fontSize="11" fill="#3f6b34" fontWeight="700">Barat</text>
+      <text x="240" y="200" fontSize="11" fill="#8a6a1a" fontWeight="700">Tengah</text>
+      <text x="395" y="135" fontSize="11" fill="#3f6b34" fontWeight="700">Timur</text>
+      <Kompas x={430} y={30} />
+    </svg>
+  )
+}
+
+/** Peta skematik Pulau Jawa membentang barat–timur, 4 penanda bernomor (Paket 2 no. 35). */
+function PetaJawa() {
+  return (
+    <svg viewBox="0 0 460 200" className="h-auto w-full max-w-lg" role="img"
+      aria-label="Peta Pulau Jawa membentang dari nomor 1 di ujung barat sampai nomor 4 di ujung timur.">
+      <rect x="0" y="0" width="460" height="200" fill="#cfe8f3" />
+      {/* Siluet Jawa memanjang barat-timur */}
+      <path
+        d="M30 110 Q70 80 120 92 Q170 100 220 88 Q280 74 330 92 Q390 110 430 96 Q436 120 410 132 Q350 150 290 134 Q230 122 175 138 Q120 152 70 140 Q34 132 30 110 Z"
+        fill="#bfe3b4" stroke="#5a9a4a" strokeWidth="2"
+      />
+      {/* Penanda 1 (barat) .. 4 (timur) */}
+      <g fontSize="15" fontWeight="800" textAnchor="middle">
+        <circle cx="78" cy="116" r="14" fill="#fff" stroke="#dc2626" strokeWidth="2" />
+        <text x="78" y="121" fill="#dc2626">1</text>
+        <circle cx="190" cy="112" r="14" fill="#fff" stroke="#dc2626" strokeWidth="2" />
+        <text x="190" y="117" fill="#dc2626">2</text>
+        <circle cx="300" cy="112" r="14" fill="#fff" stroke="#dc2626" strokeWidth="2" />
+        <text x="300" y="117" fill="#dc2626">3</text>
+        <circle cx="398" cy="116" r="14" fill="#fff" stroke="#dc2626" strokeWidth="2" />
+        <text x="398" y="121" fill="#dc2626">4</text>
+      </g>
+      <text x="36" y="170" fontSize="10" fill="#3f6b34" fontWeight="700">Barat</text>
+      <text x="408" y="170" fontSize="10" fill="#3f6b34" fontWeight="700">Timur</text>
+      <Kompas x={432} y={30} />
+    </svg>
+  )
+}
+
+/** Skema siklus air: penguapan laut → awan → hujan (Paket 2 no. 43). */
+function SiklusAir() {
+  return (
+    <svg viewBox="0 0 420 240" className="h-auto w-full max-w-md" role="img"
+      aria-label="Skema siklus air: panas matahari menguapkan air laut menjadi uap yang naik membentuk awan, lalu turun sebagai hujan.">
+      <rect x="0" y="0" width="420" height="240" fill="#eaf6ff" />
+      {/* Matahari */}
+      <circle cx="370" cy="42" r="22" fill="#ffd166" />
+      <g stroke="#ffb703" strokeWidth="3">
+        <line x1="370" y1="8" x2="370" y2="0" /><line x1="336" y1="42" x2="328" y2="42" />
+        <line x1="346" y1="18" x2="340" y2="12" /><line x1="346" y1="66" x2="340" y2="72" />
+      </g>
+      {/* Awan */}
+      <g fill="#ffffff" stroke="#cbd5e1">
+        <ellipse cx="150" cy="55" rx="46" ry="26" />
+        <ellipse cx="110" cy="62" rx="30" ry="20" />
+        <ellipse cx="190" cy="62" rx="30" ry="20" />
+      </g>
+      {/* Laut */}
+      <rect x="0" y="185" width="420" height="55" fill="#7ec8e3" />
+      <path d="M0 185 q30 -8 60 0 t60 0 t60 0 t60 0 t60 0 t60 0" fill="none" stroke="#5aa6c7" strokeWidth="2" />
+      {/* Panah penguapan (naik) */}
+      <g stroke="#1d4ed8" strokeWidth="3" fill="none">
+        <path d="M250 180 C250 140 240 110 200 88" markerEnd="url(#mpanah)" />
+        <path d="M300 182 C305 150 300 120 195 80" markerEnd="url(#mpanah)" />
+      </g>
+      <text x="300" y="135" fontSize="12" fill="#1d4ed8" fontWeight="700">penguapan</text>
+      {/* Hujan (turun) */}
+      <g stroke="#1d4ed8" strokeWidth="2.5">
+        <line x1="120" y1="90" x2="112" y2="120" /><line x1="140" y1="92" x2="132" y2="124" />
+        <line x1="160" y1="92" x2="152" y2="124" /><line x1="180" y1="90" x2="172" y2="120" />
+      </g>
+      <text x="92" y="150" fontSize="12" fill="#1d4ed8" fontWeight="700">hujan</text>
+      <text x="20" y="215" fontSize="12" fill="#0c5670" fontWeight="700">Laut</text>
+      <defs>
+        <marker id="mpanah" markerWidth="9" markerHeight="9" refX="5" refY="4" orient="auto">
+          <path d="M0 0 L9 4 L0 8 Z" fill="#1d4ed8" />
+        </marker>
+      </defs>
+    </svg>
+  )
+}
+
 const PETA: Record<string, () => ReactElement> = {
   'peta-singapura': PetaSingapura,
   'peta-sumatera': PetaSumatera,
   terasering: Terasering,
+  'peta-fauna-indonesia': PetaFaunaIndonesia,
+  'peta-jawa': PetaJawa,
+  'siklus-air': SiklusAir,
 }
 
 /** Render ilustrasi SVG berdasarkan id; null bila id tidak dikenal. */

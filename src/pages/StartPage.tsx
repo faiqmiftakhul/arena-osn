@@ -40,10 +40,10 @@ export default function StartPage() {
         {/* Header berwarna jingga */}
         <div className="bg-jingga px-8 py-7 text-white">
           <p className="text-sm font-semibold tracking-wide opacity-90">
-            OLIMPIADE SAINS NASIONAL · TINGKAT PROVINSI
+            SIMULASI TRY OUT OLIMPIADE SAINS NASIONAL
           </p>
           <h1 className="mt-1 text-3xl font-extrabold leading-tight">
-            Try Out OSN IPS SD
+            Arena OSN
           </h1>
         </div>
 
