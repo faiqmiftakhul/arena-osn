@@ -1,0 +1,801 @@
+{
+  "meta": {
+    "id": "paket-9",
+    "cabangId": "ips-sd",
+    "kode": "Paket 9",
+    "judul": "Paket 9 — OSN IPS SD Tingkat Provinsi (Tingkat Mahir)",
+    "durasiDetik": 3600,
+    "jumlahPg": 40,
+    "jumlahIsian": 10
+  },
+  "soal": [
+    {
+      "id": 1,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Kota A terletak pada 105°BT (termasuk WIB), sedangkan Kota B terletak pada 135°BT (termasuk WIT). Setiap selisih 15° garis bujur setara dengan selisih waktu 1 jam.",
+      "pertanyaan": "Jika di Kota A menunjukkan pukul 07.00, maka di Kota B saat itu menunjukkan pukul ...",
+      "opsi": [
+        { "kode": "A", "teks": "09.00" },
+        { "kode": "B", "teks": "05.00" },
+        { "kode": "C", "teks": "08.00" },
+        { "kode": "D", "teks": "10.00" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 2,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pertanyaan": "Garis khayal yang membagi bumi menjadi belahan utara dan belahan selatan disebut garis ...",
+      "opsi": [
+        { "kode": "A", "teks": "bujur" },
+        { "kode": "B", "teks": "khatulistiwa" },
+        { "kode": "C", "teks": "kontur" },
+        { "kode": "D", "teks": "balik" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 3,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan peta Pulau Sumatera berikut! Nomor 1 berada di ujung paling utara hingga nomor 4 di ujung paling selatan, dengan urutan Aceh (1), Sumatera Utara (2), Sumatera Barat (3), dan Lampung (4).",
+      "gambar": {
+        "jenis": "svg",
+        "svgId": "peta-sumatera",
+        "deskripsi": "Peta Pulau Sumatera dengan empat penanda: nomor 1 di Aceh (utara), 2 di Sumatera Utara, 3 di Sumatera Barat, dan 4 di Lampung (selatan).",
+        "alt": "Peta Sumatera dengan penanda nomor 1 (Aceh) sampai 4 (Lampung)."
+      },
+      "pertanyaan": "Provinsi Sumatera Barat yang beribu kota Padang dan dilalui garis khatulistiwa ditunjukkan oleh nomor ...",
+      "opsi": [
+        { "kode": "A", "teks": "1" },
+        { "kode": "B", "teks": "2" },
+        { "kode": "C", "teks": "3" },
+        { "kode": "D", "teks": "4" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 4,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pertanyaan": "Gempa bumi yang terjadi akibat letusan gunung berapi disebut gempa ...",
+      "opsi": [
+        { "kode": "A", "teks": "tektonik" },
+        { "kode": "B", "teks": "tumbukan" },
+        { "kode": "C", "teks": "runtuhan" },
+        { "kode": "D", "teks": "vulkanik" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 5,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Sebuah peta memiliki skala 1 : 500.000. Pada peta tersebut, jarak kota P ke kota Q adalah 6 cm.",
+      "pertanyaan": "Jarak sebenarnya kota P ke kota Q adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "3 km" },
+        { "kode": "B", "teks": "30 km" },
+        { "kode": "C", "teks": "300 km" },
+        { "kode": "D", "teks": "60 km" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 6,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan peta persebaran fauna Indonesia berikut! Tanda Y berada di wilayah timur (Australis), yaitu sekitar Papua.",
+      "gambar": {
+        "jenis": "svg",
+        "svgId": "peta-fauna-indonesia",
+        "deskripsi": "Peta persebaran fauna Indonesia dengan garis Wallace (pemisah barat–tengah) dan garis Weber (pemisah tengah–timur); tanda Y berada di wilayah timur (Australis), yaitu sekitar Papua.",
+        "alt": "Peta persebaran fauna Indonesia dengan tanda Y di wilayah timur (Australis)."
+      },
+      "pertanyaan": "Garis khayal yang memisahkan fauna wilayah tengah (peralihan) dengan fauna Indonesia bagian timur (Australis) yang ditandai Y disebut garis ...",
+      "opsi": [
+        { "kode": "A", "teks": "Weber" },
+        { "kode": "B", "teks": "Wallace" },
+        { "kode": "C", "teks": "khatulistiwa" },
+        { "kode": "D", "teks": "bujur" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 7,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pertanyaan": "Bunga terbesar di dunia yang menjadi tumbuhan khas Provinsi Bengkulu dan hidup sebagai parasit adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "melati" },
+        { "kode": "B", "teks": "anggrek bulan" },
+        { "kode": "C", "teks": "kantong semar" },
+        { "kode": "D", "teks": "Rafflesia arnoldii" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 8,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan tabel pernyataan tentang sumber daya alam tambang berikut!",
+      "tabel": {
+        "kolom": ["No.", "Pernyataan"],
+        "baris": [
+          ["(1)", "Emas dan perak termasuk barang tambang golongan logam."],
+          ["(2)", "Aspal alam banyak ditemukan di Pulau Buton, Sulawesi Tenggara."],
+          ["(3)", "Gas alam yang dicairkan untuk diekspor Indonesia dikenal dengan LNG."],
+          ["(4)", "Bijih besi termasuk sumber daya alam yang dapat diperbarui."]
+        ]
+      },
+      "pertanyaan": "Urutan benar (B) dan salah (S) berdasarkan tabel di atas adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "B-B-S-S" },
+        { "kode": "B", "teks": "B-S-B-S" },
+        { "kode": "C", "teks": "B-B-B-S" },
+        { "kode": "D", "teks": "S-B-B-S" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 9,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pertanyaan": "Usaha melestarikan hewan dan tumbuhan langka di dalam habitat aslinya, misalnya melalui taman nasional dan suaka margasatwa, disebut pelestarian ...",
+      "opsi": [
+        { "kode": "A", "teks": "in situ" },
+        { "kode": "B", "teks": "ex situ" },
+        { "kode": "C", "teks": "reboisasi" },
+        { "kode": "D", "teks": "terasering" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 10,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Secara astronomis, Indonesia terletak antara 6°LU – 11°LS. Perhatikan pernyataan tentang pengaruh letak astronomis berikut!",
+      "pernyataan": [
+        { "label": "1", "teks": "Indonesia beriklim tropis karena berada di sekitar garis khatulistiwa." },
+        { "label": "2", "teks": "Indonesia mengalami empat musim sepanjang tahun." },
+        { "label": "3", "teks": "Wilayah Indonesia dilalui garis khatulistiwa." },
+        { "label": "4", "teks": "Indonesia memiliki suhu udara yang sangat dingin sepanjang tahun." },
+        { "label": "5", "teks": "Indonesia menerima penyinaran matahari sepanjang tahun." }
+      ],
+      "pertanyaan": "Pengaruh letak astronomis Indonesia yang tepat ditunjukkan oleh nomor ...",
+      "opsi": [
+        { "kode": "A", "teks": "(1), (2), dan (3)" },
+        { "kode": "B", "teks": "(1), (3), dan (5)" },
+        { "kode": "C", "teks": "(2), (3), dan (4)" },
+        { "kode": "D", "teks": "(2), (4), dan (5)" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 11,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pertanyaan": "Negara anggota ASEAN yang seluruh wilayahnya terkurung daratan (tidak memiliki laut) adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "Kamboja" },
+        { "kode": "B", "teks": "Vietnam" },
+        { "kode": "C", "teks": "Laos" },
+        { "kode": "D", "teks": "Myanmar" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 12,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pertanyaan": "Danau terbesar di Indonesia yang terbentuk akibat letusan gunung berapi dan terletak di Provinsi Sumatera Utara adalah Danau ...",
+      "opsi": [
+        { "kode": "A", "teks": "Singkarak" },
+        { "kode": "B", "teks": "Maninjau" },
+        { "kode": "C", "teks": "Poso" },
+        { "kode": "D", "teks": "Toba" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 13,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "mudah",
+      "pertanyaan": "Alat yang digunakan untuk mengukur banyaknya curah hujan di suatu daerah disebut ...",
+      "opsi": [
+        { "kode": "A", "teks": "penakar hujan" },
+        { "kode": "B", "teks": "kompas" },
+        { "kode": "C", "teks": "barometer" },
+        { "kode": "D", "teks": "seismograf" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 14,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pertanyaan": "Rumah adat Sumatera Barat yang atapnya berbentuk melengkung menyerupai tanduk kerbau disebut rumah ...",
+      "opsi": [
+        { "kode": "A", "teks": "Joglo" },
+        { "kode": "B", "teks": "Honai" },
+        { "kode": "C", "teks": "Gadang" },
+        { "kode": "D", "teks": "Tongkonan" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 15,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan dua pernyataan berikut!",
+      "pernyataan": [
+        { "label": "A", "teks": "Seluruh budaya asing yang masuk ke Indonesia harus ditiru sepenuhnya tanpa disaring." },
+        { "label": "B", "teks": "Sikap toleransi diperlukan agar keberagaman tidak menimbulkan perpecahan." }
+      ],
+      "pertanyaan": "Berdasarkan pernyataan di atas, hubungan dua pernyataan yang tepat adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "pernyataan A benar, pernyataan B salah" },
+        { "kode": "B", "teks": "pernyataan A salah, pernyataan B benar" },
+        { "kode": "C", "teks": "pernyataan A benar, pernyataan B benar, dan saling berhubungan" },
+        { "kode": "D", "teks": "pernyataan A benar, pernyataan B benar, tetapi tidak ada hubungan" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 16,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pengantar": "Perhatikan tabel tari tradisional dan daerah asalnya berikut!",
+      "tabel": {
+        "kolom": ["Tari Tradisional", "Asal Daerah"],
+        "baris": [
+          ["(1) Tari Saman", "(A) Aceh"],
+          ["(2) Tari Kecak", "(B) Bali"],
+          ["(3) Tari Piring", "(C) Sumatera Barat"],
+          ["(4) Tari Reog", "(D) Jawa Timur"]
+        ]
+      },
+      "pertanyaan": "Pasangan tari tradisional dan asal daerah yang seluruhnya tepat adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "1A, 2C, 3B, dan 4D" },
+        { "kode": "B", "teks": "1B, 2A, 3C, dan 4D" },
+        { "kode": "C", "teks": "1A, 2B, 3D, dan 4C" },
+        { "kode": "D", "teks": "1A, 2B, 3C, dan 4D" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 17,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan pernyataan tentang faktor penyebab keberagaman masyarakat Indonesia berikut!",
+      "pernyataan": [
+        { "label": "1", "teks": "Letak Indonesia yang strategis di jalur perdagangan dunia." },
+        { "label": "2", "teks": "Kondisi negara kepulauan yang memisahkan masyarakat antarpulau." },
+        { "label": "3", "teks": "Seluruh wilayah Indonesia memiliki kondisi alam yang sama persis." },
+        { "label": "4", "teks": "Perbedaan agama membuat bangsa Indonesia mustahil bersatu." },
+        { "label": "5", "teks": "Sikap masyarakat dalam menerima perubahan dan budaya baru." }
+      ],
+      "pertanyaan": "Faktor penyebab keberagaman masyarakat Indonesia yang tepat ditunjukkan oleh nomor ...",
+      "opsi": [
+        { "kode": "A", "teks": "(1), (3), dan (4)" },
+        { "kode": "B", "teks": "(2), (3), dan (4)" },
+        { "kode": "C", "teks": "(1), (2), dan (5)" },
+        { "kode": "D", "teks": "(3), (4), dan (5)" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 18,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan tabel pernyataan tentang perubahan sosial berikut!",
+      "tabel": {
+        "kolom": ["No.", "Pernyataan"],
+        "baris": [
+          ["(1)", "Penggunaan telepon genggam mempermudah komunikasi jarak jauh."],
+          ["(2)", "Semua perubahan sosial selalu membawa dampak negatif bagi masyarakat."],
+          ["(3)", "Perpindahan penduduk dari desa ke kota disebut urbanisasi."],
+          ["(4)", "Kegiatan gotong royong termasuk contoh perubahan sosial yang cepat (revolusi)."]
+        ]
+      },
+      "pertanyaan": "Urutan benar (B) dan salah (S) berdasarkan tabel di atas adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "B-S-B-S" },
+        { "kode": "B", "teks": "B-B-S-B" },
+        { "kode": "C", "teks": "S-B-S-B" },
+        { "kode": "D", "teks": "B-S-S-B" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 19,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pertanyaan": "Lembaga sosial yang berfungsi mengatur kegiatan pemenuhan kebutuhan barang dan jasa dalam masyarakat adalah lembaga ...",
+      "opsi": [
+        { "kode": "A", "teks": "keluarga" },
+        { "kode": "B", "teks": "agama" },
+        { "kode": "C", "teks": "pendidikan" },
+        { "kode": "D", "teks": "ekonomi" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 20,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sulit",
+      "pengantar": "Sebagian besar penduduk Indonesia masih terpusat di Pulau Jawa. Perhatikan pernyataan tentang upaya mengatasi persebaran penduduk yang tidak merata berikut!",
+      "pernyataan": [
+        { "label": "1", "teks": "Melaksanakan program transmigrasi ke luar Pulau Jawa." },
+        { "label": "2", "teks": "Memusatkan seluruh pembangunan hanya di Pulau Jawa." },
+        { "label": "3", "teks": "Melakukan pemerataan pembangunan di seluruh daerah." },
+        { "label": "4", "teks": "Melarang penduduk desa untuk bersekolah." },
+        { "label": "5", "teks": "Mengembangkan pusat industri di luar Pulau Jawa." }
+      ],
+      "pertanyaan": "Upaya yang tepat untuk mengatasi persebaran penduduk yang tidak merata ditunjukkan oleh nomor ...",
+      "opsi": [
+        { "kode": "A", "teks": "(1), (2), dan (3)" },
+        { "kode": "B", "teks": "(1), (3), dan (5)" },
+        { "kode": "C", "teks": "(2), (3), dan (4)" },
+        { "kode": "D", "teks": "(2), (4), dan (5)" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 21,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pertanyaan": "Sikap menghargai dan membiarkan orang lain menjalankan ibadah sesuai dengan agama dan kepercayaannya masing-masing disebut sikap ...",
+      "opsi": [
+        { "kode": "A", "teks": "egoisme" },
+        { "kode": "B", "teks": "fanatisme" },
+        { "kode": "C", "teks": "toleransi" },
+        { "kode": "D", "teks": "individualisme" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 22,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan tabel lagu daerah dan asal daerahnya berikut!",
+      "tabel": {
+        "kolom": ["Lagu Daerah", "Asal Daerah"],
+        "baris": [
+          ["(1) Ampar-Ampar Pisang", "(A) Kalimantan Selatan"],
+          ["(2) Apuse", "(B) Papua"],
+          ["(3) Bungong Jeumpa", "(C) Aceh"],
+          ["(4) Kicir-Kicir", "(D) DKI Jakarta"]
+        ]
+      },
+      "pertanyaan": "Pasangan lagu daerah dan asal daerah yang seluruhnya tepat adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "1A, 2B, 3C, dan 4D" },
+        { "kode": "B", "teks": "1B, 2A, 3C, dan 4D" },
+        { "kode": "C", "teks": "1A, 2C, 3B, dan 4D" },
+        { "kode": "D", "teks": "1A, 2B, 3D, dan 4C" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 23,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pertanyaan": "Semboyan 'Bhinneka Tunggal Ika' berasal dari kitab karangan Mpu Tantular yang berjudul ...",
+      "opsi": [
+        { "kode": "A", "teks": "Negarakertagama" },
+        { "kode": "B", "teks": "Arjunawiwaha" },
+        { "kode": "C", "teks": "Baratayuda" },
+        { "kode": "D", "teks": "Sutasoma" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 24,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan pernyataan tentang kegiatan dan pelaku ekonomi berikut!",
+      "pernyataan": [
+        { "label": "1", "teks": "Produsen adalah pihak yang menghasilkan barang dan jasa." },
+        { "label": "2", "teks": "Konsumen adalah pihak yang menyalurkan barang ke daerah lain." },
+        { "label": "3", "teks": "Distributor menyalurkan barang dari produsen ke konsumen." },
+        { "label": "4", "teks": "Pemerintah berperan mengatur dan mengawasi kegiatan ekonomi." }
+      ],
+      "pertanyaan": "Pernyataan yang tepat tentang pelaku ekonomi ditunjukkan oleh nomor ...",
+      "opsi": [
+        { "kode": "A", "teks": "(1), (2), dan (3)" },
+        { "kode": "B", "teks": "(1), (3), dan (4)" },
+        { "kode": "C", "teks": "(2), (3), dan (4)" },
+        { "kode": "D", "teks": "(1), (2), dan (4)" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 25,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sulit",
+      "pengantar": "Pak Ahmad membeli sebuah barang seharga Rp600.000, kemudian menjualnya kembali dengan harga Rp540.000.",
+      "pertanyaan": "Dari penjualan tersebut, Pak Ahmad mengalami ...",
+      "opsi": [
+        { "kode": "A", "teks": "untung 10%" },
+        { "kode": "B", "teks": "untung 11%" },
+        { "kode": "C", "teks": "rugi 6%" },
+        { "kode": "D", "teks": "rugi 10%" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 26,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pertanyaan": "Orang atau badan yang bertugas menyalurkan barang dari produsen ke konsumen disebut ...",
+      "opsi": [
+        { "kode": "A", "teks": "produsen" },
+        { "kode": "B", "teks": "konsumen" },
+        { "kode": "C", "teks": "distributor" },
+        { "kode": "D", "teks": "importir" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 27,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sulit",
+      "pengantar": "Sebuah koperasi memperoleh Sisa Hasil Usaha (SHU) sebesar Rp15.000.000 pada akhir tahun. SHU tersebut dibagikan secara merata kepada 250 orang anggota.",
+      "pertanyaan": "Besar SHU yang diterima oleh setiap anggota adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "Rp60.000" },
+        { "kode": "B", "teks": "Rp6.000" },
+        { "kode": "C", "teks": "Rp600.000" },
+        { "kode": "D", "teks": "Rp150.000" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 28,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pertanyaan": "Badan usaha yang modalnya terbagi atas saham-saham dan pemiliknya bertanggung jawab sebatas modal yang ditanamkan disebut ...",
+      "opsi": [
+        { "kode": "A", "teks": "firma" },
+        { "kode": "B", "teks": "Perseroan Terbatas (PT)" },
+        { "kode": "C", "teks": "koperasi" },
+        { "kode": "D", "teks": "persekutuan komanditer (CV)" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 29,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "mudah",
+      "pertanyaan": "Tempat bertemunya penjual dan pembeli untuk melakukan kegiatan jual beli disebut ...",
+      "opsi": [
+        { "kode": "A", "teks": "bank" },
+        { "kode": "B", "teks": "koperasi" },
+        { "kode": "C", "teks": "kantor" },
+        { "kode": "D", "teks": "pasar" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 30,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan pernyataan tentang perdagangan internasional berikut!",
+      "pernyataan": [
+        { "label": "1", "teks": "Ekspor dapat menambah devisa suatu negara." },
+        { "label": "2", "teks": "Impor dilakukan untuk memenuhi kebutuhan yang tidak dapat diproduksi sendiri." },
+        { "label": "3", "teks": "Perdagangan internasional tidak memberi manfaat apa pun bagi negara." },
+        { "label": "4", "teks": "Setiap negara memiliki sumber daya yang sama sehingga tidak perlu berdagang." },
+        { "label": "5", "teks": "Kurs adalah perbandingan nilai mata uang suatu negara terhadap mata uang negara lain." }
+      ],
+      "pertanyaan": "Pernyataan yang tepat tentang perdagangan internasional ditunjukkan oleh nomor ...",
+      "opsi": [
+        { "kode": "A", "teks": "(1), (2), dan (5)" },
+        { "kode": "B", "teks": "(1), (3), dan (4)" },
+        { "kode": "C", "teks": "(2), (3), dan (4)" },
+        { "kode": "D", "teks": "(3), (4), dan (5)" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 31,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pertanyaan": "Kerajaan bercorak Buddha yang menjadi pusat perdagangan dan penyebaran agama Buddha di Nusantara serta berpusat di Sumatera adalah Kerajaan ...",
+      "opsi": [
+        { "kode": "A", "teks": "Majapahit" },
+        { "kode": "B", "teks": "Kutai" },
+        { "kode": "C", "teks": "Sriwijaya" },
+        { "kode": "D", "teks": "Tarumanegara" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 32,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan tabel pernyataan tentang kerajaan Hindu-Buddha di Indonesia berikut!",
+      "tabel": {
+        "kolom": ["No.", "Pernyataan"],
+        "baris": [
+          ["(1)", "Kerajaan Kutai merupakan kerajaan Hindu tertua di Indonesia."],
+          ["(2)", "Candi Borobudur dibangun pada masa Dinasti Sanjaya yang bercorak Hindu."],
+          ["(3)", "Kerajaan Majapahit mencapai puncak kejayaan pada masa Raja Hayam Wuruk."],
+          ["(4)", "Patih Gajah Mada terkenal dengan Sumpah Palapa untuk menyatukan Nusantara."]
+        ]
+      },
+      "pertanyaan": "Urutan benar (B) dan salah (S) berdasarkan tabel di atas adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "B-B-S-B" },
+        { "kode": "B", "teks": "B-S-B-B" },
+        { "kode": "C", "teks": "S-B-B-B" },
+        { "kode": "D", "teks": "B-B-B-S" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 33,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pengantar": "Pada 28 Oktober 1928, para pemuda dari berbagai daerah berikrar mengenai satu tanah air, satu bangsa, dan satu bahasa persatuan.",
+      "pertanyaan": "Peristiwa penting yang menjadi tonggak persatuan pemuda tersebut dikenal dengan ...",
+      "opsi": [
+        { "kode": "A", "teks": "Proklamasi Kemerdekaan" },
+        { "kode": "B", "teks": "berdirinya Budi Utomo" },
+        { "kode": "C", "teks": "Kongres Perempuan Indonesia" },
+        { "kode": "D", "teks": "Sumpah Pemuda" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 34,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan peta Pulau Jawa berikut! Nomor 1 berada di ujung paling barat hingga nomor 4 di ujung paling timur.",
+      "gambar": {
+        "jenis": "svg",
+        "svgId": "peta-jawa",
+        "deskripsi": "Peta Pulau Jawa dengan empat penanda nomor dari 1 (ujung barat) sampai 4 (ujung timur).",
+        "alt": "Peta Pulau Jawa dengan penanda nomor 1 (barat) sampai 4 (timur)."
+      },
+      "pertanyaan": "Kerajaan Banten, kerajaan Islam yang berpusat di ujung paling barat Pulau Jawa, ditunjukkan oleh nomor ...",
+      "opsi": [
+        { "kode": "A", "teks": "1" },
+        { "kode": "B", "teks": "2" },
+        { "kode": "C", "teks": "3" },
+        { "kode": "D", "teks": "4" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 35,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pertanyaan": "Tokoh yang mendirikan perguruan Taman Siswa dan dikenal sebagai Bapak Pendidikan Nasional adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "dr. Sutomo" },
+        { "kode": "B", "teks": "Ki Hajar Dewantara" },
+        { "kode": "C", "teks": "Douwes Dekker" },
+        { "kode": "D", "teks": "Cipto Mangunkusumo" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 36,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pertanyaan": "Kongsi dagang Belanda yang dibentuk pada tahun 1602 untuk memonopoli perdagangan rempah-rempah di Nusantara adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "EIC" },
+        { "kode": "B", "teks": "Portugis" },
+        { "kode": "C", "teks": "VOC" },
+        { "kode": "D", "teks": "Sekutu" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 37,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan tabel pernyataan tentang pahlawan dan perlawanannya berikut!",
+      "tabel": {
+        "kolom": ["No.", "Pernyataan"],
+        "baris": [
+          ["(1)", "Sultan Hasanuddin memimpin perlawanan rakyat Makassar melawan VOC."],
+          ["(2)", "Pangeran Antasari memimpin Perang Banjar di Kalimantan Selatan."],
+          ["(3)", "Cut Nyak Dhien adalah pahlawan perempuan yang berasal dari Maluku."],
+          ["(4)", "Sultan Ageng Tirtayasa memimpin perlawanan rakyat Banten melawan Belanda."]
+        ]
+      },
+      "pertanyaan": "Urutan benar (B) dan salah (S) berdasarkan tabel di atas adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "B-B-S-B" },
+        { "kode": "B", "teks": "S-B-B-B" },
+        { "kode": "C", "teks": "B-S-B-B" },
+        { "kode": "D", "teks": "B-B-B-S" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 38,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan dua pernyataan berikut!",
+      "pernyataan": [
+        { "label": "A", "teks": "BPUPKI dibentuk oleh Jepang untuk menyelidiki persiapan kemerdekaan Indonesia." },
+        { "label": "B", "teks": "Lagu kebangsaan Indonesia Raya diciptakan oleh W.R. Supratman." }
+      ],
+      "pertanyaan": "Berdasarkan pernyataan di atas, hubungan dua pernyataan yang tepat adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "pernyataan A benar, pernyataan B salah" },
+        { "kode": "B", "teks": "pernyataan A salah, pernyataan B benar" },
+        { "kode": "C", "teks": "pernyataan A benar, pernyataan B benar, dan saling berhubungan" },
+        { "kode": "D", "teks": "pernyataan A benar, pernyataan B benar, tetapi tidak ada hubungan" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 39,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pengantar": "Perhatikan gambar tokoh berikut!",
+      "gambar": {
+        "jenis": "deskripsi",
+        "deskripsi": "Lukisan seorang panglima besar Tentara Nasional Indonesia yang memimpin perang gerilya melawan Belanda meskipun dalam keadaan sakit paru-paru dan ditandu oleh pasukannya.",
+        "alt": "Lukisan Jenderal Sudirman."
+      },
+      "pertanyaan": "Tokoh panglima besar pemimpin perang gerilya pada gambar tersebut adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "Ir. Soekarno" },
+        { "kode": "B", "teks": "Jenderal Sudirman" },
+        { "kode": "C", "teks": "Bung Tomo" },
+        { "kode": "D", "teks": "Mohammad Hatta" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 40,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan pernyataan tentang perjuangan mempertahankan kemerdekaan Indonesia berikut!",
+      "pernyataan": [
+        { "label": "1", "teks": "Pertempuran 10 November 1945 di Surabaya kemudian diperingati sebagai Hari Pahlawan." },
+        { "label": "2", "teks": "Peristiwa Bandung Lautan Api terjadi ketika rakyat membakar kotanya agar tidak dikuasai Sekutu." },
+        { "label": "3", "teks": "Perjanjian Linggarjati menghasilkan pengakuan Belanda atas wilayah RI meliputi Jawa, Sumatera, dan Madura." },
+        { "label": "4", "teks": "Belanda tidak pernah melakukan agresi militer terhadap Indonesia setelah proklamasi." }
+      ],
+      "pertanyaan": "Pernyataan yang tepat tentang perjuangan mempertahankan kemerdekaan ditunjukkan oleh nomor ...",
+      "opsi": [
+        { "kode": "A", "teks": "(1), (2), dan (4)" },
+        { "kode": "B", "teks": "(2), (3), dan (4)" },
+        { "kode": "C", "teks": "(1), (2), dan (3)" },
+        { "kode": "D", "teks": "(1), (3), dan (4)" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 41,
+      "tipe": "isian",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "mudah",
+      "pertanyaan": "Alat yang digunakan untuk mencatat kekuatan dan getaran gempa bumi adalah ....",
+      "kunci": ["seismograf", "seismometer"]
+    },
+    {
+      "id": 42,
+      "tipe": "isian",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pertanyaan": "Selisih waktu antara daerah Waktu Indonesia Barat (WIB) dan Waktu Indonesia Tengah (WITA) adalah ... jam.",
+      "kunci": ["1", "satu", "1 jam"]
+    },
+    {
+      "id": 43,
+      "tipe": "isian",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pertanyaan": "Angin yang bertiup pada malam hari dari arah darat menuju laut dan dimanfaatkan nelayan untuk berangkat melaut disebut angin ....",
+      "kunci": ["darat", "angin darat"]
+    },
+    {
+      "id": 44,
+      "tipe": "isian",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pertanyaan": "Kain tradisional Indonesia yang dibuat dengan teknik menggambar menggunakan malam (lilin) dan telah diakui UNESCO sebagai warisan budaya dunia adalah ....",
+      "kunci": ["batik"]
+    },
+    {
+      "id": 45,
+      "tipe": "isian",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sulit",
+      "pertanyaan": "Percampuran dua kebudayaan yang berbeda menjadi budaya baru tanpa menghilangkan ciri budaya aslinya disebut ....",
+      "kunci": ["akulturasi"]
+    },
+    {
+      "id": 46,
+      "tipe": "isian",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pertanyaan": "Perpindahan penduduk dari desa menuju kota untuk menetap disebut ....",
+      "kunci": ["urbanisasi"]
+    },
+    {
+      "id": 47,
+      "tipe": "isian",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sulit",
+      "pertanyaan": "Keadaan ketika nilai impor suatu negara lebih besar daripada nilai ekspornya disebut ... perdagangan.",
+      "kunci": ["defisit", "defisit perdagangan"]
+    },
+    {
+      "id": 48,
+      "tipe": "isian",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pertanyaan": "Balas jasa yang diterima nasabah atas uang yang ditabung atau dipinjamkan melalui bank disebut ....",
+      "kunci": ["bunga", "bunga bank"]
+    },
+    {
+      "id": 49,
+      "tipe": "isian",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pertanyaan": "Perjanjian antara Indonesia dan Belanda pada tahun 1946 yang hanya mengakui wilayah Republik Indonesia atas Jawa, Sumatera, dan Madura adalah Perjanjian ....",
+      "kunci": ["linggarjati", "perjanjian linggarjati"]
+    },
+    {
+      "id": 50,
+      "tipe": "isian",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pertanyaan": "Teks Proklamasi Kemerdekaan Indonesia pada 17 Agustus 1945 dibacakan oleh ....",
+      "kunci": ["soekarno", "ir. soekarno", "ir soekarno", "sukarno", "bung karno"]
+    }
+  ]
+}
