@@ -9,6 +9,7 @@ import paket8 from './paket-8.json'
 import paket9 from './paket-9.json'
 import paket10 from './paket-10.json'
 import paket11 from './paket-11.json'
+import paket12 from './paket-12.json'
 import { daftarCabang } from './cabang'
 import type { PaketSoal } from '../types'
 
@@ -31,6 +32,7 @@ export const daftarPaket: PaketSoal[] = [
   paket9 as PaketSoal,
   paket10 as PaketSoal,
   paket11 as PaketSoal,
+  paket12 as PaketSoal,
 ]
 
 /** Paket default (paket pertama). */
