@@ -1,0 +1,586 @@
+{
+  "meta": {
+    "id": "semifinal-ips-1",
+    "cabangId": "ips-sd",
+    "kode": "Semifinal 1",
+    "judul": "Semifinal 1 — OSN IPS SD Tingkat Nasional (Bank Soal Puspresnas 2025)",
+    "durasiDetik": 5400,
+    "jumlahPg": 19,
+    "jumlahIsian": 22
+  },
+  "soal": [
+    {
+      "id": 1,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan informasi sebuah peta berikut! (1) Jarak kota P ke kota Q pada peta 18 cm. (2) Garis lintang kota P adalah 2°10' LS. (3) Garis lintang kota Q adalah 2°55' LS. (4) Setiap 1° garis lintang di permukaan bumi setara dengan 111 km.",
+      "gambar": {
+        "jenis": "deskripsi",
+        "deskripsi": "Peta yang menunjukkan kota P (di daratan sebelah barat) dan kota Q (pulau kecil di sebelah timur), dengan jarak pada peta 18 cm serta garis lintang 2°10' LS di P dan 2°55' LS di Q.",
+        "alt": "Peta letak kota P dan kota Q beserta garis lintangnya."
+      },
+      "pertanyaan": "Berdasarkan informasi peta tersebut, jarak sebenarnya berdasarkan selisih garis lintang P dan Q adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "8.150.000 cm" },
+        { "kode": "B", "teks": "8.155.000 cm" },
+        { "kode": "C", "teks": "8.200.000 cm" },
+        { "kode": "D", "teks": "8.325.000 cm" }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 2,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pengantar": "Perhatikan letak Indonesia pada globe dunia!",
+      "gambar": {
+        "jenis": "deskripsi",
+        "deskripsi": "Globe yang memperlihatkan Kepulauan Indonesia berada di antara Benua Asia dan Benua Australia serta di antara Samudra Hindia dan Samudra Pasifik.",
+        "alt": "Globe yang menampilkan posisi Kepulauan Indonesia."
+      },
+      "pertanyaan": "Berdasarkan globe di atas, keuntungan dari letak geografis Indonesia adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "memiliki keragaman flora dan fauna bernilai ekonomi tinggi karena berada di iklim tropis" },
+        { "kode": "B", "teks": "wilayahnya berada di jalur silang perdagangan lokal dan dunia yang strategis" },
+        { "kode": "C", "teks": "terletak di antara dua Samudra dan dua Benua sehingga ramai perlintasan internasional" },
+        { "kode": "D", "teks": "memiliki potensi hasil laut yang melimpah karena lautnya luas dan strategis" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 3,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Ho Chi Minh City (Vietnam) berkembang sebagai waterfront city karena Sungai Saigon dimanfaatkan untuk perdagangan, transportasi, dan pariwisata. Indonesia juga memiliki kota-kota dengan potensi serupa. Perhatikan pernyataan berikut!",
+      "pernyataan": [
+        { "label": "1", "teks": "Pontianak, memiliki Sungai Kapuas yang merupakan sungai terpanjang di Indonesia dan jalur vital ekonomi." },
+        { "label": "2", "teks": "Makassar, dekat dengan Sungai Tallo yang mendukung aktivitas perdagangan, pelabuhan, dan transportasi laut." },
+        { "label": "3", "teks": "Palembang, memiliki Sungai Musi yang merupakan pusat transportasi dan pariwisata kota." },
+        { "label": "4", "teks": "Jayapura, dekat dengan Sungai Mamberamo yang menjadi potensi besar untuk perikanan dan transportasi air di Papua." },
+        { "label": "5", "teks": "Bandung, memiliki Sungai Cikapundung sebagai wisata perkotaan di Jawa Barat." }
+      ],
+      "pertanyaan": "Berdasarkan pernyataan di atas, kota-kota di Indonesia yang berpotensi sama dengan Ho Chi Minh City adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "(1), (2), dan (3)" },
+        { "kode": "B", "teks": "(1), (3), dan (4)" },
+        { "kode": "C", "teks": "(2), (4), dan (5)" },
+        { "kode": "D", "teks": "(3), (4), dan (5)" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 4,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan tabel flora dan fauna khas, habitat, serta provinsi asalnya berikut!",
+      "tabel": {
+        "kolom": ["Flora dan Fauna Khas", "Habitat/Wilayah Sebaran", "Provinsi atau Daerah"],
+        "baris": [
+          ["A. Rafflesia arnoldii", "1. Hutan Hujan Tropis", "a. Bengkulu"],
+          ["B. Bekantan", "2. Hutan Rawa Mangrove", "b. Kalimantan Selatan"],
+          ["C. Cendrawasih", "3. Hutan Pegunungan", "c. Papua"],
+          ["D. Komodo", "4. Taman Nasional Komodo", "d. Nusa Tenggara Timur"],
+          ["E. Badak Jawa", "5. Taman Nasional Ujung Kulon", "e. Banten"]
+        ]
+      },
+      "pertanyaan": "Pasangan yang benar antara flora/fauna, habitat, serta provinsi atau daerahnya adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "(A), (1), dan (a)" },
+        { "kode": "B", "teks": "(B), (3), dan (b)" },
+        { "kode": "C", "teks": "(C), (2), dan (c)" },
+        { "kode": "D", "teks": "(D), (5), dan (d)" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 5,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pengantar": "Perhatikan dua pernyataan berikut!",
+      "pernyataan": [
+        { "label": "A", "teks": "Indonesia memiliki sumber daya alam yang melimpah dan beragam." },
+        { "label": "B", "teks": "Pemerintah Indonesia membangun pabrik-pabrik untuk barang ekspor." }
+      ],
+      "pertanyaan": "Berdasarkan pernyataan di atas, hubungan dua pernyataan yang tepat adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "pernyataan A benar, pernyataan B benar, dan keduanya saling berhubungan" },
+        { "kode": "B", "teks": "pernyataan A benar, pernyataan B benar, tetapi tidak saling berhubungan" },
+        { "kode": "C", "teks": "pernyataan A benar, pernyataan B salah" },
+        { "kode": "D", "teks": "pernyataan A salah, pernyataan B benar" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 6,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pengantar": "Perhatikan dua pernyataan berikut!",
+      "pernyataan": [
+        { "label": "A", "teks": "Liburan sekolah Nindy memanfaatkan waktu untuk membantu orang tua merapikan rumah dan merawat tanaman di halaman." },
+        { "label": "B", "teks": "Salah satu bentuk tanggung jawab sebagai warga masyarakat, Nindy selalu membuang sampah pada tempatnya untuk menjaga kebersihan lingkungan." }
+      ],
+      "pertanyaan": "Berdasarkan pernyataan di atas, hubungan dua pernyataan yang tepat adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "pernyataan A benar, pernyataan B benar, dan ada hubungan" },
+        { "kode": "B", "teks": "pernyataan A benar, pernyataan B benar, tetapi tidak ada hubungan" },
+        { "kode": "C", "teks": "pernyataan A benar, pernyataan B salah" },
+        { "kode": "D", "teks": "pernyataan A salah, pernyataan B benar" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 7,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pengantar": "Perhatikan gambar dan pernyataan berikut!",
+      "gambar": {
+        "jenis": "deskripsi",
+        "deskripsi": "Foto pertandingan sepak bola: beberapa pemain dari dua tim berebut bola di lapangan dalam sebuah pertandingan resmi.",
+        "alt": "Pemain sepak bola dari dua tim berebut bola dalam pertandingan."
+      },
+      "pernyataan": [
+        { "label": "1", "teks": "Persaingan antar kelompok pemain sepak bola." },
+        { "label": "2", "teks": "Kekerasan dan konflik sosial antara para pemain." },
+        { "label": "3", "teks": "Pemain sepak bola berusaha untuk memenangkan pertandingan." },
+        { "label": "4", "teks": "Para pemain berkompetisi dengan kemampuan yang dimiliki." },
+        { "label": "5", "teks": "Perkelahian di antara para pemain sepak bola." }
+      ],
+      "pertanyaan": "Berdasarkan gambar dan pernyataan di atas, proses sosial yang paling tepat adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "(1), (2), dan (3)" },
+        { "kode": "B", "teks": "(1), (3), dan (4)" },
+        { "kode": "C", "teks": "(2), (4), dan (5)" },
+        { "kode": "D", "teks": "(3), (4), dan (5)" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 8,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan tabel peran ideal beberapa profesi berikut!",
+      "tabel": {
+        "kolom": ["No.", "Pernyataan"],
+        "baris": [
+          ["1", "Sebagai guru, peran idealnya adalah mendidik, membimbing, dan menjadi teladan bagi siswa serta masyarakat sekitar."],
+          ["2", "Sebagai polisi, peran idealnya memberikan perlindungan kepada orang yang bersalah."],
+          ["3", "Sebagai pedagang, peran idealnya adalah menjual barang dengan jujur, menjaga kualitas produk, dan melayani pembeli dengan ramah."],
+          ["4", "Sebagai dokter, peran idealnya adalah memberikan pelayanan kesehatan dengan jujur, profesional, dan kepedulian."]
+        ]
+      },
+      "pertanyaan": "Urutan benar (B) dan salah (S) berdasarkan tabel di atas adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "B-B-S-B" },
+        { "kode": "B", "teks": "B-S-B-B" },
+        { "kode": "C", "teks": "S-S-B-B" },
+        { "kode": "D", "teks": "S-B-B-S" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 9,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan pernyataan berikut!",
+      "pernyataan": [
+        { "label": "1", "teks": "Lomba cerdas cermat antar kelas, lomba sepak bola antar kampung, dan lomba kebersihan kelas." },
+        { "label": "2", "teks": "Perselisihan antar siswa di kelas, perbedaan pendapat dalam kerja kelompok, dan persaingan memilih ketua kelas." },
+        { "label": "3", "teks": "Siswa berkompetisi mendapatkan nilai tertinggi, bersaing dalam lomba pidato di sekolah, dan mengikuti kompetisi basket di sekolah." },
+        { "label": "4", "teks": "Kompetisi antar siswa untuk mewakili OSN, berlomba meraih prestasi di sekolah, dan berdebat di ruang kelas." }
+      ],
+      "pertanyaan": "Berdasarkan pernyataan di atas, yang termasuk proses interaksi sosial disosiatif di lingkungan sekolah adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "(2), (3), dan (4)" },
+        { "kode": "B", "teks": "(1), (2), dan (4)" },
+        { "kode": "C", "teks": "(1), (3), dan (4)" },
+        { "kode": "D", "teks": "(1), (2), dan (3)" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 10,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan tabel pernyataan globalisasi dan dampaknya berikut!",
+      "tabel": {
+        "kolom": ["Pernyataan Globalisasi", "Dampak"],
+        "baris": [
+          ["(1) Informasi dari seluruh dunia mudah kita dapatkan.", "(A) Mudah belajar hal baru lewat internet."],
+          ["(2) Budaya luar masuk ke Indonesia.", "(B) Bisa membeli pakaian dan mainan dari negara lain."],
+          ["(3) Orang bisa berinteraksi lintas negara.", "(C) Mudah mengenal musik dan film baru."],
+          ["(4) Barang luar negeri bisa didapatkan dengan mudah.", "(D) Peluang pertemanan lintas negara."]
+        ]
+      },
+      "pertanyaan": "Pasangan yang benar antara pernyataan dan dampak globalisasi adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "1A, 2C, 3D, dan 4B" },
+        { "kode": "B", "teks": "1A, 2D, 3C, dan 4B" },
+        { "kode": "C", "teks": "1B, 2C, 3A, dan 4D" },
+        { "kode": "D", "teks": "1C, 2B, 3A, dan 4D" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 11,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sulit",
+      "pengantar": "Pak Gandi seorang pengusaha yang mencari alternatif pengiriman barang paling menguntungkan. Mobil A menempuh jarak 45 km dengan waktu tempuh 2,5 jam dan biaya Rp500.000. Mobil B menempuh jarak 50 km dengan waktu tempuh 1,5 jam serta biaya termasuk tol Rp700.000. Kedua kendaraan berangkat pukul 08.00 WIB dan produk harus sampai pukul 10.00 WIB.",
+      "pertanyaan": "Pilihan yang tepat untuk pengiriman barang adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "Kendaraan A, karena biayanya lebih murah" },
+        { "kode": "B", "teks": "Kendaraan A, karena jarak tempuhnya lebih dekat" },
+        { "kode": "C", "teks": "Kendaraan B, karena lebih cepat sampai tujuan" },
+        { "kode": "D", "teks": "Kendaraan B, karena biaya dan waktunya murah" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 12,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sulit",
+      "pengantar": "Pak Siswanto menuju tempat kerja menggunakan motor. Untuk menghemat, ia mencoba beberapa alternatif bahan bakar: oktan X seharga Rp8.000 mampu menempuh 16 km; oktan Y seharga Rp10.000 mampu menempuh 22,5 km; oktan Z seharga Rp12.000 mampu menempuh 36 km; oktan W seharga Rp16.000 mampu menempuh 40 km.",
+      "pertanyaan": "Nilai guna bahan bakar yang paling efisien digunakan oleh Pak Siswanto adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "bahan bakar dengan oktan W" },
+        { "kode": "B", "teks": "bahan bakar dengan oktan Z" },
+        { "kode": "C", "teks": "bahan bakar dengan oktan Y" },
+        { "kode": "D", "teks": "bahan bakar dengan oktan X" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 13,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pengantar": "ASEAN merupakan kerja sama regional antarbangsa di Asia Tenggara yang salah satu tujuannya meningkatkan pembangunan ekonomi dan memperkuat daya saing ekonomi dalam kancah global. Untuk lebih meningkatkan tujuan tersebut, ASEAN juga melakukan kerja sama antar-regional dengan Australia dan Selandia Baru.",
+      "pertanyaan": "Tujuan kerja sama antar-regional tersebut adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "mengurangi hambatan perdagangan, memperluas akses pasar barang dan jasa serta investasi" },
+        { "kode": "B", "teks": "kegiatan bersama untuk meningkatkan keamanan dan stabilitas kawasan" },
+        { "kode": "C", "teks": "kegiatan untuk memperkenalkan dan melestarikan budaya masing-masing anggota" },
+        { "kode": "D", "teks": "kerja sama peningkatan sumber daya manusia dengan kerja sama pendidikan dan pertukaran pelajar" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 14,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pengantar": "Perhatikan dua pernyataan berikut!",
+      "pernyataan": [
+        { "label": "A", "teks": "BUMN bertujuan untuk meningkatkan pertumbuhan ekonomi dan memberikan pelayanan publik yang baik." },
+        { "label": "B", "teks": "BUMN dalam kegiatan usahanya dituntut untuk melakukan tindakan yang efisien sehingga mampu menghasilkan keuntungan." }
+      ],
+      "pertanyaan": "Berdasarkan pernyataan di atas, hubungan dua pernyataan yang tepat adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "pernyataan A benar, pernyataan B benar, dan keduanya saling berhubungan" },
+        { "kode": "B", "teks": "pernyataan A benar, pernyataan B benar, tetapi tidak saling berhubungan" },
+        { "kode": "C", "teks": "pernyataan A benar, pernyataan B salah" },
+        { "kode": "D", "teks": "pernyataan A salah, pernyataan B benar" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 15,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pengantar": "Pak Robi merupakan pengusaha kuliner yang menyediakan kebutuhan makanan sehat yang terjangkau. Karena harganya murah dan enak, pembelinya banyak sehingga Pak Robi menambah karyawannya dalam rangka menjaga layanan konsumen yang baik. Dengan strategi tersebut usahanya memperoleh keuntungan yang banyak.",
+      "pertanyaan": "Berdasarkan narasi tersebut, peran BUMN dan BUMS yang sama dalam perekonomian adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "menyediakan produk yang belum diminati pihak swasta" },
+        { "kode": "B", "teks": "memperoleh keuntungan sebanyak-banyaknya" },
+        { "kode": "C", "teks": "menyediakan produk serta membuka lapangan kerja" },
+        { "kode": "D", "teks": "mengatur harga dan jumlah produk untuk memperoleh untung besar" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 16,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan gambar peninggalan sejarah berikut!",
+      "gambar": {
+        "jenis": "deskripsi",
+        "deskripsi": "Dolmen, yaitu bangunan dari batu besar berbentuk meja (batu datar yang ditopang beberapa batu tegak) peninggalan zaman megalitikum.",
+        "alt": "Dolmen, meja batu peninggalan masa praaksara."
+      },
+      "pertanyaan": "Fungsi dari peninggalan sejarah masa praaksara di atas adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "digunakan sebagai tempat pemujaan terhadap dewa-dewa dalam agama Hindu yang menyebar dari India ke Asia Tenggara" },
+        { "kode": "B", "teks": "tempat pemujaan yang hanya ditemukan di Indonesia dan digunakan oleh masyarakat Islam pada masa pra-Islam" },
+        { "kode": "C", "teks": "sebagai meja sesaji dalam kepercayaan animisme dan penyebarannya terkait jalur pesisir yang menghubungkan Asia dan Afrika" },
+        { "kode": "D", "teks": "prasasti batu nisan yang ditemukan di daerah pegunungan Eropa dan digunakan untuk menandai makam raja-raja dari Dinasti Megalitikum" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 17,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pengantar": "Perhatikan peta Pulau Jawa berikut! Nomor 1 di ujung paling barat hingga nomor 4 di ujung paling timur, dengan urutan Banten (1), Jawa Barat (2), Jawa Tengah (3), dan Jawa Timur (4).",
+      "gambar": {
+        "jenis": "svg",
+        "svgId": "peta-jawa",
+        "deskripsi": "Peta Pulau Jawa dengan empat penanda: nomor 1 di Banten (barat), 2 di Jawa Barat, 3 di Jawa Tengah, dan 4 di Jawa Timur (timur).",
+        "alt": "Peta Pulau Jawa dengan penanda nomor 1 (Banten) sampai 4 (Jawa Timur)."
+      },
+      "pertanyaan": "Kerajaan Islam pertama di Pulau Jawa, yaitu Kerajaan Demak, berada di wilayah provinsi yang ditunjukkan oleh nomor ...",
+      "opsi": [
+        { "kode": "A", "teks": "1" },
+        { "kode": "B", "teks": "2" },
+        { "kode": "C", "teks": "3" },
+        { "kode": "D", "teks": "4" }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 18,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pertanyaan": "Poenale Sanctie diberikan kepada rakyat Indonesia yang melanggar hukum dengan tujuan utamanya adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "melindungi pemodal asing agar para buruh tidak melarikan diri" },
+        { "kode": "B", "teks": "memberikan keadilan bagi rakyat yang melanggar hukum adat" },
+        { "kode": "C", "teks": "meningkatkan kesejahteraan orang Eropa di Hindia Belanda" },
+        { "kode": "D", "teks": "memperkuat pemerintahan lokal dan posisi raja di Indonesia" }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 19,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pengantar": "Perhatikan gambar lambang organisasi berikut!",
+      "gambar": {
+        "jenis": "deskripsi",
+        "deskripsi": "Lambang organisasi Muhammadiyah berupa matahari bersinar dua belas dengan tulisan Arab 'Muhammadiyah' dan kalimat syahadat di tengahnya, berwarna hijau.",
+        "alt": "Lambang Muhammadiyah berupa matahari bersinar berwarna hijau."
+      },
+      "pertanyaan": "Tujuan utama pendirian organisasi pergerakan nasional dengan lambang tersebut adalah ...",
+      "opsi": [
+        { "kode": "A", "teks": "mengembangkan organisasi politik Islam di Indonesia" },
+        { "kode": "B", "teks": "mengajak umat Islam kembali kepada ajaran al-Qur'an dan hadis" },
+        { "kode": "C", "teks": "mengganti Syekh Ahmad Khatib sebagai guru dan pemimpin Islam" },
+        { "kode": "D", "teks": "mendirikan organisasi di Makkah sebagai pusat Islam Nusantara" }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 20,
+      "tipe": "isian",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pengantar": "Bacalah paragraf berikut! \"Gunung api terbentuk akibat aktivitas magma dari dalam bumi. Ketika terjadi letusan, gunung api dapat mengeluarkan (1) …, (2) …, (3) …, serta material panas lainnya. Letusan besar sering disertai (4) … yang dapat merusak wilayah sekitar. Aktivitas gunung api di Indonesia diawasi lembaga khusus yang memasang (5) … untuk memantau pergerakan magma dan getaran.\"",
+      "pertanyaan": "Rumpang (1) dapat diisi salah satu material yang dikeluarkan gunung api saat letusan, yaitu ....",
+      "kunci": ["lava", "lahar", "abu vulkanik", "abu", "awan panas", "gas", "gas vulkanik", "material vulkanik", "batu"]
+    },
+    {
+      "id": 21,
+      "tipe": "isian",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pengantar": "Masih pada paragraf tentang gunung api: \"... gunung api dapat mengeluarkan (1) …, (2) …, (3) …, serta material panas lainnya.\"",
+      "pertanyaan": "Rumpang (2) dapat diisi salah satu material yang dikeluarkan gunung api saat letusan, yaitu ....",
+      "kunci": ["lava", "lahar", "abu vulkanik", "abu", "awan panas", "gas", "gas vulkanik", "material vulkanik", "batu"]
+    },
+    {
+      "id": 22,
+      "tipe": "isian",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pengantar": "Masih pada paragraf tentang gunung api: \"... gunung api dapat mengeluarkan (1) …, (2) …, (3) …, serta material panas lainnya.\"",
+      "pertanyaan": "Rumpang (3) dapat diisi salah satu material yang dikeluarkan gunung api saat letusan, yaitu ....",
+      "kunci": ["lava", "lahar", "abu vulkanik", "abu", "awan panas", "gas", "gas vulkanik", "material vulkanik", "batu"]
+    },
+    {
+      "id": 23,
+      "tipe": "isian",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pengantar": "Masih pada paragraf tentang gunung api: \"Letusan besar sering disertai (4) … yang dapat merusak wilayah sekitar.\"",
+      "pertanyaan": "Rumpang (4) dapat diisi peristiwa yang menyertai letusan besar dan merusak wilayah sekitar, yaitu ....",
+      "kunci": ["awan panas", "lahar", "lahar panas", "gempa vulkanik", "gempa", "gas beracun", "tsunami", "banjir lahar"]
+    },
+    {
+      "id": 24,
+      "tipe": "isian",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Masih pada paragraf tentang gunung api: \"... lembaga khusus yang memasang (5) … untuk memantau pergerakan magma dan getaran.\"",
+      "pertanyaan": "Rumpang (5) dapat diisi alat yang dipasang untuk memantau getaran/gerakan magma gunung api, yaitu ....",
+      "kunci": ["seismograf", "seismometer", "alat pemantau", "sensor", "alat pendeteksi gempa"]
+    },
+    {
+      "id": 25,
+      "tipe": "isian",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pengantar": "Bacalah paragraf berikut! \"Batas antarnegara terasa semakin dekat. Masyarakat dari berbagai negara bisa saling berinteraksi dan berbagi informasi dengan cepat. Fenomena tersebut merupakan bentuk dari (1) …. Hal ini disebabkan perkembangan (2) …, seperti (3) …, yang membantu kita mengetahui informasi dari negara lain. Dalam bidang (4) …, negara-negara saling membeli dan menjual barang. Dalam bidang (5) …, kita melihat berkembangnya gaya berpakaian, musik, dan film dari luar negeri.\"",
+      "pertanyaan": "Rumpang (1) diisi dengan fenomena semakin dekatnya batas antarnegara, yaitu ....",
+      "kunci": ["globalisasi"]
+    },
+    {
+      "id": 26,
+      "tipe": "isian",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pengantar": "Masih pada paragraf globalisasi: \"Hal ini disebabkan perkembangan (2) …, seperti (3) …, yang membantu kita mengetahui informasi dari negara lain.\"",
+      "pertanyaan": "Rumpang (2) diisi dengan hal yang perkembangannya mendorong globalisasi, yaitu ....",
+      "kunci": ["teknologi", "teknologi informasi dan komunikasi", "teknologi komunikasi", "teknologi informasi", "iptek"]
+    },
+    {
+      "id": 27,
+      "tipe": "isian",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pengantar": "Masih pada paragraf globalisasi: \"... perkembangan (2) …, seperti (3) …, yang membantu kita mengetahui informasi dari negara lain dengan cepat.\"",
+      "pertanyaan": "Rumpang (3) diisi dengan contoh teknologi yang membantu memperoleh informasi dengan cepat, yaitu ....",
+      "kunci": ["internet", "media sosial", "handphone", "telepon pintar", "smartphone", "televisi", "gawai"]
+    },
+    {
+      "id": 28,
+      "tipe": "isian",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pengantar": "Masih pada paragraf globalisasi: \"Dalam bidang (4) …, negara-negara saling membeli dan menjual barang, misalnya baju, sepatu, mainan, dan makanan.\"",
+      "pertanyaan": "Rumpang (4) diisi dengan bidang tempat negara saling menjual dan membeli barang, yaitu bidang ....",
+      "kunci": ["ekonomi", "perdagangan", "perdagangan internasional", "ekspor impor", "ekonomi perdagangan"]
+    },
+    {
+      "id": 29,
+      "tipe": "isian",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pengantar": "Masih pada paragraf globalisasi: \"Dalam bidang (5) …, kita melihat berkembangnya gaya berpakaian, musik, dan film dari luar negeri.\"",
+      "pertanyaan": "Rumpang (5) diisi dengan bidang berkembangnya gaya berpakaian, musik, dan film dari luar negeri, yaitu bidang ....",
+      "kunci": ["budaya", "sosial budaya", "kebudayaan"]
+    },
+    {
+      "id": 30,
+      "tipe": "isian",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pengantar": "Bacalah paragraf berikut! \"Indonesia memiliki tanah yang subur. Bentuk kegiatan ekonomi (1) … berbasis pada pertanian yang banyak dilakukan di pedesaan. Mengolah lahan pertanian merupakan bentuk (2) … untuk memenuhi kebutuhan dasar. Hasil pertanian dihargai murah di petani namun mahal di supermarket; nilai lebih karena perbedaan lokasi tersebut merupakan nilai guna (3) …. Nilai uang sebagai alat untuk menentukan nilai barang disebut fungsi uang sebagai (4) …. Sebagian petani milenial memiliki (5) … untuk mengganti handphone agar tidak ketinggalan tren.\"",
+      "pertanyaan": "Rumpang (1) diisi dengan bentuk kegiatan ekonomi berbasis pertanian di pedesaan, yaitu ekonomi ....",
+      "kunci": ["agraris", "pertanian"]
+    },
+    {
+      "id": 31,
+      "tipe": "isian",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pengantar": "Masih pada paragraf ekonomi pertanian: \"Mengolah lahan pertanian merupakan bentuk (2) … untuk memenuhi kebutuhan dasar.\"",
+      "pertanyaan": "Rumpang (2) diisi dengan kegiatan ekonomi berupa mengolah/menghasilkan barang, yaitu kegiatan ....",
+      "kunci": ["produksi"]
+    },
+    {
+      "id": 32,
+      "tipe": "isian",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sulit",
+      "pengantar": "Masih pada paragraf ekonomi pertanian: \"Hasil pertanian dihargai murah di petani namun mahal di supermarket; nilai lebih karena perbedaan lokasi tersebut merupakan nilai guna (3) ….\"",
+      "pertanyaan": "Rumpang (3) diisi dengan jenis nilai guna yang muncul karena perbedaan lokasi/tempat, yaitu nilai guna ....",
+      "kunci": ["tempat", "nilai guna tempat"]
+    },
+    {
+      "id": 33,
+      "tipe": "isian",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sulit",
+      "pengantar": "Masih pada paragraf ekonomi pertanian: \"Nilai uang sebagai alat untuk menentukan nilai suatu barang disebut fungsi uang sebagai (4) ….\"",
+      "pertanyaan": "Rumpang (4) diisi dengan fungsi uang sebagai penentu/pengukur nilai suatu barang, yaitu sebagai ....",
+      "kunci": ["alat satuan hitung", "satuan hitung", "alat pengukur nilai", "pengukur nilai", "alat penentu nilai", "alat penunjuk harga", "satuan hitung nilai"]
+    },
+    {
+      "id": 34,
+      "tipe": "isian",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pengantar": "Masih pada paragraf ekonomi pertanian: \"Sebagian petani milenial memiliki (5) … untuk mengganti handphone agar tidak ketinggalan tren.\"",
+      "pertanyaan": "Rumpang (5) diisi dengan hal yang sifatnya bukan kebutuhan pokok, muncul karena mengikuti tren, yaitu ....",
+      "kunci": ["keinginan"]
+    },
+    {
+      "id": 35,
+      "tipe": "isian",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pengantar": "Bacalah paragraf berikut! \"Perang Diponegoro bermula karena konflik kepemilikan tanah dan ketidakpuasan terhadap kebijakan kolonial. Masalah ini menimbulkan motivasi (1) … yang memobilisasi kaum santri dan bangsawan lokal. Dalam pertempuran, pasukan Diponegoro banyak menggunakan taktik (2) … melawan pasukan Belanda yang lebih modern. Konflik ini menunjukkan konflik agraria antara elite tradisional dan aparat (3) …, sekaligus mencerminkan luasnya dukungan (4) … yang mempengaruhi penyebaran perlawanan. Upaya Belanda menumpas perlawanan memadukan tindakan militer dan negosiasi, suatu bentuk (5) … kekuasaan kolonial.\"",
+      "pertanyaan": "Rumpang (1) diisi dengan jenis motivasi yang menggerakkan kaum santri dalam Perang Diponegoro, yaitu motivasi ....",
+      "kunci": ["keagamaan", "agama", "religius", "perang sabil"]
+    },
+    {
+      "id": 36,
+      "tipe": "isian",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pengantar": "Masih pada paragraf Perang Diponegoro: \"... pasukan Diponegoro banyak menggunakan taktik (2) … melawan pasukan Belanda yang lebih modern.\"",
+      "pertanyaan": "Rumpang (2) diisi dengan taktik perang berpindah-pindah dan menyergap yang dipakai pasukan Diponegoro, yaitu taktik ....",
+      "kunci": ["gerilya", "perang gerilya"]
+    },
+    {
+      "id": 37,
+      "tipe": "isian",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pengantar": "Masih pada paragraf Perang Diponegoro: \"Konflik ini menunjukkan konflik agraria antara elite tradisional dan aparat (3) ….\"",
+      "pertanyaan": "Rumpang (3) diisi dengan pihak penguasa/aparat yang berhadapan dengan elite tradisional, yaitu aparat ....",
+      "kunci": ["kolonial", "pemerintah kolonial", "belanda", "kolonial belanda"]
+    },
+    {
+      "id": 38,
+      "tipe": "isian",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pengantar": "Masih pada paragraf Perang Diponegoro: \"... mencerminkan luasnya dukungan (4) … yang mempengaruhi penyebaran perlawanan.\"",
+      "pertanyaan": "Rumpang (4) diisi dengan pihak yang memberi dukungan luas sehingga perlawanan menyebar, yaitu dukungan ....",
+      "kunci": ["rakyat", "masyarakat", "rakyat pribumi"]
+    },
+    {
+      "id": 39,
+      "tipe": "isian",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pengantar": "Masih pada paragraf Perang Diponegoro: \"Upaya Belanda menumpas perlawanan memadukan tindakan militer dan negosiasi, suatu bentuk (5) … kekuasaan kolonial.\"",
+      "pertanyaan": "Rumpang (5) diisi dengan bentuk cara/perpaduan tindakan yang dipakai kolonial menghadapi perlawanan besar, yaitu ....",
+      "kunci": ["strategi", "strategi kolonial", "siasat"]
+    },
+    {
+      "id": 40,
+      "tipe": "isian",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "SOAL URAIAN (dinilai manual — jawaban di bawah adalah jawaban model, bukan kunci tunggal). Perhatikan dua konsep: Ring of Fire (cincin api Pasifik) dan Pertanian.",
+      "pertanyaan": "Hubungkan konsep Ring of Fire dan pertanian dengan keberadaan gunung api! (Jelaskan pada lembar jawab; ketik ringkasannya di sini.)",
+      "kunci": ["Indonesia berada di jalur Ring of Fire sehingga memiliki banyak gunung api aktif; letusan gunung api menghasilkan abu vulkanik yang menyuburkan tanah, sehingga tanah menjadi subur dan cocok untuk pertanian."]
+    },
+    {
+      "id": 41,
+      "tipe": "isian",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sulit",
+      "pengantar": "SOAL URAIAN (dinilai manual — jawaban di bawah adalah jawaban model, bukan kunci tunggal). Perhatikan dua konsep: Norma Hukum dan Sumber Daya Alam.",
+      "pertanyaan": "Hubungkan keterkaitan antara norma hukum dan pengelolaan sumber daya alam! (Jelaskan pada lembar jawab; ketik ringkasannya di sini.)",
+      "kunci": ["Norma hukum berupa aturan dan larangan diperlukan untuk mengatur serta mengendalikan pengelolaan sumber daya alam agar dimanfaatkan secara bijak dan berkelanjutan, mencegah kerusakan lingkungan dan eksploitasi berlebihan."]
+    }
+  ]
+}
