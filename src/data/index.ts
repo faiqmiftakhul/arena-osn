@@ -14,6 +14,7 @@ import paket13 from './paket-13.json'
 import paket14 from './paket-14.json'
 import paket15 from './paket-15.json'
 import semifinalIps1 from './semifinal-ips-1.json'
+import iyfProvinsi1 from './iyf-provinsi-1.json'
 import { daftarCabang } from './cabang'
 import type { PaketSoal } from '../types'
 
@@ -41,6 +42,7 @@ export const daftarPaket: PaketSoal[] = [
   paket14 as PaketSoal,
   paket15 as PaketSoal,
   semifinalIps1 as PaketSoal,
+  iyfProvinsi1 as PaketSoal,
 ]
 
 /** Paket default (paket pertama). */

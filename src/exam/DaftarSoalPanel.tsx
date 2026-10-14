@@ -121,14 +121,18 @@ export default function DaftarSoalPanel({
           </div>
 
           {/* Isian Singkat */}
-          <h3 className="mt-6 text-sm font-bold text-tinta">
-            Isian Singkat ({pg.length + 1}–{pg.length + isian.length})
-          </h3>
-          <div className="mt-2 grid grid-cols-6 gap-2">
-            {isian.map(({ s, i }) => (
-              <Tombol key={s.id} s={s} i={i} />
-            ))}
-          </div>
+          {isian.length > 0 && (
+            <>
+              <h3 className="mt-6 text-sm font-bold text-tinta">
+                Isian Singkat ({pg.length + 1}–{pg.length + isian.length})
+              </h3>
+              <div className="mt-2 grid grid-cols-6 gap-2">
+                {isian.map(({ s, i }) => (
+                  <Tombol key={s.id} s={s} i={i} />
+                ))}
+              </div>
+            </>
+          )}
         </div>
 
         <div className="border-t border-garis p-4">

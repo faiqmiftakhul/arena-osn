@@ -158,8 +158,8 @@ export default function StartPage() {
             <h2 className="font-bold text-tinta">Ketentuan Try Out</h2>
             <ul className="mt-2 space-y-1 text-sm text-tinta/80">
               <li>
-                • {totalSoal} soal: {jumlahPg} pilihan ganda + {jumlahIsian}{' '}
-                isian singkat
+                • {totalSoal} soal: {jumlahPg} pilihan ganda
+                {jumlahIsian > 0 && ` + ${jumlahIsian} isian singkat`}
               </li>
               <li>• Waktu pengerjaan {durasiMenit} menit</li>
               <li>• Pilihan ganda: 1 jawaban (A–D)</li>

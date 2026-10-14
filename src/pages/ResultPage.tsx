@@ -59,10 +59,12 @@ export default function ResultPage() {
             judul={`Pilihan Ganda (${hasil.rekapPg.total})`}
             rekap={hasil.rekapPg}
           />
-          <KartuRekap
-            judul={`Isian Singkat (${hasil.rekapIsian.total})`}
-            rekap={hasil.rekapIsian}
-          />
+          {hasil.rekapIsian.total > 0 && (
+            <KartuRekap
+              judul={`Isian Singkat (${hasil.rekapIsian.total})`}
+              rekap={hasil.rekapIsian}
+            />
+          )}
         </div>
 
         {/* Rekap per materi */}
