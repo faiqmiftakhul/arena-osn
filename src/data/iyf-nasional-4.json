@@ -1,0 +1,1754 @@
+{
+  "meta": {
+    "id": "iyf-nasional-4",
+    "cabangId": "ips-sd",
+    "kode": "IYF Nasional 4",
+    "judul": "IYF Nasional 4 — OSN IPS SD Seleksi Nasional IYF (JSIT)",
+    "durasiDetik": 3600,
+    "jumlahPg": 50,
+    "jumlahIsian": 0
+  },
+  "soal": [
+    {
+      "id": 1,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "gambar": {
+        "jenis": "deskripsi",
+        "deskripsi": "Peta tematik penggunaan lahan Indonesia memakai warna hijau muda untuk lahan sawah. Warna hijau muda paling luas terdapat di Pulau Jawa, Bali, pesisir timur Sumatra Utara, dan Sulawesi Selatan bagian barat, terutama di dataran rendah dan kaki gunung api. Di Papua dan pedalaman Kalimantan, warna tersebut hanya sedikit.",
+        "alt": "Peta penggunaan lahan Indonesia; sawah terpusat di Jawa, Bali, Sumatra Utara bagian timur, dan Sulawesi Selatan bagian barat."
+      },
+      "pertanyaan": "Pola persebaran lahan sawah pada peta tersebut dan penyebabnya yang paling tepat adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Tersebar merata di semua pulau, karena setiap wilayah Indonesia memiliki kesuburan tanah yang sama."
+        },
+        {
+          "kode": "B",
+          "teks": "Memusat di pulau-pulau yang paling luas, karena luas pulau menjadi satu-satunya penentu luas sawah."
+        },
+        {
+          "kode": "C",
+          "teks": "Mengelompok di dataran rendah dan kaki gunung api, karena tanahnya subur, air mudah dialirkan, dan tenaga kerjanya banyak."
+        },
+        {
+          "kode": "D",
+          "teks": "Mengelompok di puncak pegunungan tinggi, karena tanaman padi hanya dapat tumbuh pada suhu udara yang dingin."
+        }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 2,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Sebuah kawasan digambar pada dua peta. Peta A berskala 1 : 50.000, sedangkan Peta B berskala 1 : 250.000. Jarak sebenarnya antara pasar dan stasiun di kawasan itu adalah 2 km.",
+      "pertanyaan": "Jarak pasar–stasiun pada kedua peta dan peta yang lebih cocok untuk melihat letak jalan-jalan kecil di kawasan itu adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Peta A 0,8 cm dan Peta B 4 cm; Peta B lebih cocok karena gambarnya lebih besar."
+        },
+        {
+          "kode": "B",
+          "teks": "Peta A 4 cm dan Peta B 0,8 cm; Peta A lebih cocok karena skalanya lebih besar sehingga lebih rinci."
+        },
+        {
+          "kode": "C",
+          "teks": "Peta A 4 cm dan Peta B 0,8 cm; Peta B lebih cocok karena mencakup wilayah lebih luas sehingga lebih rinci."
+        },
+        {
+          "kode": "D",
+          "teks": "Peta A 40 cm dan Peta B 8 cm; Peta A lebih cocok karena angka penyebut skalanya lebih kecil."
+        }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 3,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "gambar": {
+        "jenis": "deskripsi",
+        "deskripsi": "Peta persebaran fauna Indonesia dibagi oleh dua garis khayal. Garis Wallace memisahkan Kalimantan dan Bali di sebelah barat dari Sulawesi dan Lombok di sebelah timur. Garis Weber terletak di sebelah barat Papua dan Kepulauan Aru. Wilayah di antara kedua garis, yaitu Sulawesi, Nusa Tenggara, dan Maluku, diberi warna kuning.",
+        "alt": "Peta fauna Indonesia dengan Garis Wallace dan Garis Weber; wilayah di antaranya berwarna kuning."
+      },
+      "pertanyaan": "Wilayah berwarna kuning beserta ciri faunanya yang tepat adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Wilayah fauna Asiatis, ditandai hewan seperti harimau, gajah, dan badak bercula satu."
+        },
+        {
+          "kode": "B",
+          "teks": "Wilayah fauna Australis, ditandai hewan berkantung seperti kanguru pohon serta burung cenderawasih."
+        },
+        {
+          "kode": "C",
+          "teks": "Wilayah tanpa hewan endemik, karena semua hewannya berasal dari wilayah barat dan timur."
+        },
+        {
+          "kode": "D",
+          "teks": "Wilayah fauna peralihan, ditandai hewan endemik seperti anoa dan babirusa di Sulawesi serta komodo di Nusa Tenggara."
+        }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 4,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Sebuah perusahaan akan membangun pabrik pengalengan ikan. Bahan bakunya ikan segar dari nelayan, dan sebagian besar hasilnya dikirim ke luar pulau melalui laut. Perhatikan data empat calon lokasi berikut!",
+      "tabel": {
+        "kolom": [
+          "Lokasi",
+          "Jarak ke Pelabuhan Perikanan",
+          "Akses Jalan",
+          "Keterangan"
+        ],
+        "baris": [
+          [
+            "P",
+            "2 km",
+            "Jalan provinsi",
+            "Lahan kosong, jauh dari permukiman padat"
+          ],
+          [
+            "Q",
+            "25 km",
+            "Jalan desa sempit",
+            "Dekat mata air pegunungan"
+          ],
+          [
+            "R",
+            "3 km",
+            "Jalan kota",
+            "Di tengah permukiman padat"
+          ],
+          [
+            "S",
+            "40 km",
+            "Jalan provinsi",
+            "Di dalam kawasan hutan lindung"
+          ]
+        ]
+      },
+      "pertanyaan": "Lokasi yang paling tepat dan alasannya adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "P, karena dekat dengan sumber bahan baku dan pelabuhan pengiriman, mudah dijangkau, serta tidak mengganggu permukiman padat."
+        },
+        {
+          "kode": "B",
+          "teks": "Q, karena udara pegunungan membuat ikan tetap segar meskipun jalannya sempit dan jauh dari pelabuhan."
+        },
+        {
+          "kode": "C",
+          "teks": "R, karena paling dekat dengan banyak pekerja sehingga bau dan limbah pabrik tidak menjadi masalah."
+        },
+        {
+          "kode": "D",
+          "teks": "S, karena lahan di hutan lindung masih luas dan dapat dibuka dengan biaya murah."
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 5,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan rangkaian peristiwa di sebuah pantai berikut!",
+      "pernyataan": [
+        {
+          "label": "1",
+          "teks": "Hutan mangrove di pantai ditebang untuk dijadikan tambak udang."
+        },
+        {
+          "label": "2",
+          "teks": "Gelombang laut langsung menghantam garis pantai tanpa penahan."
+        },
+        {
+          "label": "3",
+          "teks": "Air sumur warga menjadi payau dan tambak sering rusak."
+        },
+        {
+          "label": "4",
+          "teks": "Garis pantai mundur ke arah darat karena abrasi."
+        }
+      ],
+      "pertanyaan": "Urutan sebab-akibat yang paling tepat dari peristiwa tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "1 2013 3 2013 2 2013 4"
+        },
+        {
+          "kode": "B",
+          "teks": "1 2013 2 2013 4 2013 3"
+        },
+        {
+          "kode": "C",
+          "teks": "2 2013 1 2013 4 2013 3"
+        },
+        {
+          "kode": "D",
+          "teks": "1 2013 4 2013 2 2013 3"
+        }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 6,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Pada tahun 1930-an, Danau Limboto di Gorontalo memiliki luas sekitar 7.000 ha dengan kedalaman sekitar 30 m. Kini, luas dan kedalamannya jauh berkurang. Lereng-lereng di sekitar danau banyak dibuka untuk ladang jagung tanpa teras, dan sungai-sungai yang bermuara ke danau membawa banyak lumpur.",
+      "pertanyaan": "Hubungan kondisi alam dan aktivitas manusia yang paling tepat menjelaskan perubahan danau tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Danau menyusut karena airnya terus menguap akibat suhu udara di Gorontalo yang makin dingin."
+        },
+        {
+          "kode": "B",
+          "teks": "Danau menyusut karena nelayan terlalu banyak menangkap ikan sehingga air danau ikut berkurang."
+        },
+        {
+          "kode": "C",
+          "teks": "Pembukaan lereng tanpa teras mempercepat erosi, lalu lumpur terbawa sungai dan mengendap sehingga danau makin dangkal dan sempit."
+        },
+        {
+          "kode": "D",
+          "teks": "Lumpur di dasar danau berasal dari air laut yang masuk ke danau setiap kali air pasang."
+        }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 7,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pengantar": "Kebakaran hutan dan lahan gambut di sebuah provinsi menimbulkan kabut asap tebal. Sekolah di beberapa kota diliburkan, penerbangan ditunda, banyak warga terserang infeksi saluran pernapasan, dan asap terbawa angin hingga ke negara tetangga.",
+      "pertanyaan": "Kesimpulan yang paling tepat dari peristiwa tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Kerusakan lingkungan di satu wilayah dapat berdampak pada kesehatan, pendidikan, dan ekonomi wilayah lain yang jauh."
+        },
+        {
+          "kode": "B",
+          "teks": "Kabut asap hanya merugikan warga yang tinggal tepat di sekitar lokasi kebakaran."
+        },
+        {
+          "kode": "C",
+          "teks": "Kebakaran lahan gambut tidak berbahaya karena asapnya cepat hilang tertiup angin."
+        },
+        {
+          "kode": "D",
+          "teks": "Dampak kebakaran hutan hanya berupa hilangnya pohon, tanpa memengaruhi kegiatan manusia."
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 8,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pengantar": "Di sebuah pulau karang kecil, air sumur warga terasa payau karena dekat dengan laut, dan di pulau itu tidak ada sungai. Warga membuat bak besar untuk menampung air hujan dari atap rumah, dan sebagian membeli air bersih yang diangkut kapal dari pulau besar.",
+      "pertanyaan": "Pernyataan yang paling tepat tentang kegiatan warga tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Warga merusak lingkungan karena menampung air hujan yang seharusnya mengalir ke laut."
+        },
+        {
+          "kode": "B",
+          "teks": "Warga tidak perlu menyesuaikan diri karena air payau dapat langsung diminum tanpa diolah."
+        },
+        {
+          "kode": "C",
+          "teks": "Kegiatan tersebut menunjukkan bahwa pulau karang kecil memiliki air tanah tawar yang melimpah."
+        },
+        {
+          "kode": "D",
+          "teks": "Warga beradaptasi terhadap keterbatasan air tawar yang disebabkan oleh kondisi alam pulau karang kecil."
+        }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 9,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Sebuah bendungan dibangun dan menggenangi sawah serta permukiman beberapa desa. Sebagian warga pindah ke tepi waduk. Beberapa tahun kemudian, banyak warga beralih menjadi pembudi daya ikan keramba, penyedia perahu wisata, dan pedagang makanan bagi pengunjung waduk. Sawah di bagian hilir kini dapat ditanami dua kali setahun karena air irigasi tersedia.",
+      "pertanyaan": "Pernyataan yang paling tepat berdasarkan peristiwa tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Pembangunan bendungan hanya membawa kerugian karena warga kehilangan sawahnya."
+        },
+        {
+          "kode": "B",
+          "teks": "Perubahan lingkungan akibat bendungan mengubah mata pencaharian warga sekitar waduk sekaligus memberi manfaat bagi wilayah hilir."
+        },
+        {
+          "kode": "C",
+          "teks": "Warga di sekitar waduk tetap bekerja sebagai petani sawah seperti sebelum bendungan dibangun."
+        },
+        {
+          "kode": "D",
+          "teks": "Bendungan hanya bermanfaat bagi warga di sekitar waduk, sedangkan wilayah hilir tidak terpengaruh."
+        }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 10,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pernyataan": [
+        {
+          "label": "1",
+          "teks": "Minyak bumi — dihemat dan mulai digantikan dengan energi surya."
+        },
+        {
+          "label": "2",
+          "teks": "Hutan produksi — ditebang secara pilih, lalu ditanami kembali."
+        },
+        {
+          "label": "3",
+          "teks": "Batu bara — ditambang sebanyak-banyaknya selagi harganya tinggi."
+        },
+        {
+          "label": "4",
+          "teks": "Ikan laut — ditangkap sepanjang tahun, termasuk pada musim bertelur."
+        }
+      ],
+      "pertanyaan": "Pasangan SDA dan cara pemanfaatan yang sesuai dengan prinsip berkelanjutan ditunjukkan oleh nomor ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "1 dan 2"
+        },
+        {
+          "kode": "B",
+          "teks": "1 dan 3"
+        },
+        {
+          "kode": "C",
+          "teks": "2 dan 4"
+        },
+        {
+          "kode": "D",
+          "teks": "3 dan 4"
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 11,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Sebuah kawasan hutan luasnya 10.000 ha. Setiap tahun, 500 ha hutan ditebang, sedangkan hanya 200 ha lahan bekas tebangan yang berhasil ditanami kembali hingga menjadi hutan.",
+      "pertanyaan": "Jika keadaan tersebut terus berlangsung, hutan akan tersisa 4.000 ha setelah ... tahun, dan upaya yang paling tepat agar luas hutan tidak terus berkurang adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "12 tahun; menambah luas penebangan agar lahan untuk ditanami makin luas"
+        },
+        {
+          "kode": "B",
+          "teks": "8 tahun; menghentikan penanaman kembali karena hutan akan tumbuh sendiri"
+        },
+        {
+          "kode": "C",
+          "teks": "20 tahun; menyeimbangkan luas penanaman kembali dengan luas penebangan"
+        },
+        {
+          "kode": "D",
+          "teks": "20 tahun; memindahkan penebangan ke hutan lindung yang masih lebat"
+        }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 12,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sedang",
+      "pengantar": "Pemerintah menetapkan aturan bahwa nelayan di sebuah teluk hanya boleh memakai jaring dengan ukuran mata jaring tertentu, sehingga ikan-ikan yang masih kecil dapat lolos.",
+      "pertanyaan": "Tujuan utama aturan tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "mengurangi pendapatan nelayan agar mereka beralih ke pekerjaan lain"
+        },
+        {
+          "kode": "B",
+          "teks": "membuat nelayan dapat menangkap ikan lebih banyak dalam waktu singkat"
+        },
+        {
+          "kode": "C",
+          "teks": "melarang nelayan menangkap ikan di teluk tersebut untuk selamanya"
+        },
+        {
+          "kode": "D",
+          "teks": "memberi kesempatan ikan kecil tumbuh dan berkembang biak sehingga ikan tetap tersedia di masa depan"
+        }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 13,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Sebuah pasar menghasilkan 2 ton sampah per hari, sebagian besar berupa sisa sayur dan buah. Pengelola pasar membandingkan tiga pilihan pengelolaan sampah berikut.",
+      "tabel": {
+        "kolom": [
+          "Pilihan",
+          "Biaya per Bulan",
+          "Pendapatan per Bulan",
+          "Dampak Lingkungan"
+        ],
+        "baris": [
+          [
+            "I. Diangkut seluruhnya ke TPA",
+            "Rp15.000.000",
+            "Rp0",
+            "TPA cepat penuh, menimbulkan bau dan gas metana"
+          ],
+          [
+            "II. Diolah menjadi kompos dan pakan maggot",
+            "Rp12.000.000",
+            "Rp9.000.000",
+            "Sampah berkurang, menghasilkan pupuk dan pakan ternak"
+          ],
+          [
+            "III. Dibakar di belakang pasar",
+            "Rp2.000.000",
+            "Rp0",
+            "Menimbulkan asap dan gangguan pernapasan"
+          ]
+        ]
+      },
+      "pertanyaan": "Pilihan yang paling tepat dan alasannya adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Pilihan III, karena biaya bersihnya paling kecil sehingga paling menguntungkan."
+        },
+        {
+          "kode": "B",
+          "teks": "Pilihan II, karena biaya bersihnya hanya Rp3.000.000 dan sampah dimanfaatkan tanpa mencemari udara."
+        },
+        {
+          "kode": "C",
+          "teks": "Pilihan I, karena sampah tidak terlihat lagi di pasar dan tidak ada pendapatan yang perlu diurus."
+        },
+        {
+          "kode": "D",
+          "teks": "Pilihan II, karena biaya pengolahannya paling kecil di antara ketiga pilihan."
+        }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 14,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Penambangan pasir di lereng gunung api memberi penghasilan bagi banyak warga. Namun, tebing-tebing bekas galian sering longsor, saluran irigasi sawah di bawahnya tertimbun, dan jalan desa rusak karena dilalui truk bermuatan berat.",
+      "pertanyaan": "Solusi yang paling sesuai dengan prinsip berkelanjutan adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "mengatur lokasi dan jumlah penambangan, mewajibkan penataan kembali lahan bekas galian, serta mengembangkan pekerjaan lain bagi warga"
+        },
+        {
+          "kode": "B",
+          "teks": "menutup seluruh penambangan seketika tanpa menyediakan pekerjaan pengganti bagi warga"
+        },
+        {
+          "kode": "C",
+          "teks": "membebaskan penambangan di mana saja agar pendapatan warga naik secepatnya"
+        },
+        {
+          "kode": "D",
+          "teks": "memindahkan seluruh sawah warga ke lereng gunung yang lebih tinggi agar tidak tertimbun"
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 15,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pengantar": "Di sebuah desa pegunungan, air bersih mengalir dari mata air dan dapat diambil warga tanpa membayar. Di sebuah kota besar, warga harus membeli air galon atau membayar tagihan air setiap bulan.",
+      "pertanyaan": "Pernyataan yang paling tepat berdasarkan keadaan tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Air selalu merupakan barang bebas di semua tempat karena jumlahnya di bumi sangat banyak."
+        },
+        {
+          "kode": "B",
+          "teks": "Warga kota membayar air hanya karena mereka lebih kaya daripada warga desa."
+        },
+        {
+          "kode": "C",
+          "teks": "Air di desa pegunungan merupakan barang ekonomi, sedangkan air di kota merupakan barang bebas."
+        },
+        {
+          "kode": "D",
+          "teks": "Suatu barang menjadi barang ekonomi di suatu tempat karena jumlah yang tersedia lebih sedikit dibandingkan kebutuhan."
+        }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 16,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan data penjualan daging sapi di sebuah pasar berikut! Pasokan daging dari peternak pada keempat minggu tersebut hampir sama.",
+      "tabel": {
+        "kolom": [
+          "Waktu",
+          "Harga per kg",
+          "Jumlah Pembeli per Hari"
+        ],
+        "baris": [
+          [
+            "Minggu ke-1 (hari biasa)",
+            "Rp130.000",
+            "120 orang"
+          ],
+          [
+            "Minggu ke-2",
+            "Rp135.000",
+            "150 orang"
+          ],
+          [
+            "Minggu ke-3 (seminggu sebelum Lebaran)",
+            "Rp150.000",
+            "300 orang"
+          ],
+          [
+            "Minggu ke-4 (sesudah Lebaran)",
+            "Rp130.000",
+            "110 orang"
+          ]
+        ]
+      },
+      "pertanyaan": "Kesimpulan yang paling tepat dari data tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Harga naik karena pasokan daging dari peternak berkurang tajam menjelang Lebaran."
+        },
+        {
+          "kode": "B",
+          "teks": "Kenaikan harga membuat jumlah pembeli berkurang menjelang Lebaran."
+        },
+        {
+          "kode": "C",
+          "teks": "Harga naik terutama karena permintaan meningkat tajam menjelang Lebaran, lalu turun kembali setelah permintaan berkurang."
+        },
+        {
+          "kode": "D",
+          "teks": "Harga daging tidak dipengaruhi jumlah pembeli karena harga selalu ditentukan oleh peternak."
+        }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 17,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pengantar": "Kelompok tani sayur organik di sebuah desa menjual hasil panennya langsung kepada konsumen melalui pasar tani setiap hari Minggu dan pesanan daring, tanpa melalui pengepul atau pedagang.",
+      "pertanyaan": "Jenis saluran distribusi tersebut dan keuntungan utamanya bagi petani adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "distribusi langsung; petani dapat menerima harga yang lebih tinggi karena tidak ada perantara"
+        },
+        {
+          "kode": "B",
+          "teks": "distribusi tidak langsung; petani tidak perlu bertemu konsumen sama sekali"
+        },
+        {
+          "kode": "C",
+          "teks": "distribusi semilangsung; seluruh hasil panen harus dijual kepada pengecer besar"
+        },
+        {
+          "kode": "D",
+          "teks": "distribusi langsung; petani tidak perlu menjaga mutu sayur karena pembeli pasti datang"
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 18,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sulit",
+      "pengantar": "Sebuah usaha roti memiliki 5 pekerja. Mula-mula, setiap pekerja membuat roti dari awal sampai akhir, dan masing-masing menghasilkan 60 roti per hari. Kemudian, pekerjaan dibagi: ada yang khusus menimbang bahan, mengaduk adonan, membentuk, memanggang, dan mengemas. Dengan 5 pekerja yang sama dan jam kerja yang sama, kini dihasilkan 500 roti per hari.",
+      "pertanyaan": "Tambahan hasil produksi per hari dan konsep ekonomi yang ditunjukkan adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "440 roti; pembagian kerja membuat setiap pekerja harus bekerja lebih lama"
+        },
+        {
+          "kode": "B",
+          "teks": "200 roti; pembagian kerja (spesialisasi) membuat produksi lebih efisien"
+        },
+        {
+          "kode": "C",
+          "teks": "200 roti; penambahan jumlah pekerja meningkatkan hasil produksi"
+        },
+        {
+          "kode": "D",
+          "teks": "140 roti; spesialisasi menyebabkan hasil produksi menurun"
+        }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 19,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sulit",
+      "pengantar": "Koperasi sekolah membagikan Sisa Hasil Usaha (SHU) bagian jasa pembelian sebesar Rp600.000 kepada anggota sesuai besarnya belanja masing-masing. Total belanja seluruh anggota selama setahun adalah Rp12.000.000. Selama setahun, Andi berbelanja Rp400.000 dan Sinta berbelanja Rp600.000.",
+      "pertanyaan": "SHU jasa pembelian yang diterima Andi dan Sinta berturut-turut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Rp300.000 dan Rp300.000"
+        },
+        {
+          "kode": "B",
+          "teks": "Rp40.000 dan Rp60.000"
+        },
+        {
+          "kode": "C",
+          "teks": "Rp20.000 dan Rp30.000"
+        },
+        {
+          "kode": "D",
+          "teks": "Rp24.000 dan Rp36.000"
+        }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 20,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pertanyaan": "Pasangan daerah, bahan baku setempat, dan produk unggulan yang benar adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Jepara — batu bara — ukiran mebel"
+        },
+        {
+          "kode": "B",
+          "teks": "Garut — kulit domba — jaket dan sepatu kulit"
+        },
+        {
+          "kode": "C",
+          "teks": "Pekalongan — tembaga — kain batik"
+        },
+        {
+          "kode": "D",
+          "teks": "Palembang — kayu jati — kain songket"
+        }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 21,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sulit",
+      "pengantar": "Sebuah desa wisata memiliki 10 kamar homestay. Pada bulan lalu (30 hari), tarif kamar Rp200.000 per malam dan rata-rata hanya 30% kamar yang terisi setiap malam. Bulan ini (30 hari), pengelola menurunkan tarif menjadi Rp150.000 per malam, dan rata-rata keterisian kamar naik menjadi 50%.",
+      "pertanyaan": "Pendapatan bulanan sebelum dan sesudah perubahan tarif serta kesimpulannya adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Rp18.000.000 dan Rp15.000.000; menurunkan tarif selalu merugikan"
+        },
+        {
+          "kode": "B",
+          "teks": "Rp60.000.000 dan Rp45.000.000; tarif tinggi lebih menguntungkan"
+        },
+        {
+          "kode": "C",
+          "teks": "Rp6.000.000 dan Rp7.500.000; pendapatan naik Rp1.500.000"
+        },
+        {
+          "kode": "D",
+          "teks": "Rp18.000.000 dan Rp22.500.000; pendapatan naik Rp4.500.000 karena lebih banyak kamar terisi"
+        }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 22,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan hasil pemetaan potensi sebuah desa perajin rotan berikut!",
+      "tabel": {
+        "kolom": [
+          "Aspek",
+          "Keterangan"
+        ],
+        "baris": [
+          [
+            "Kekuatan",
+            "Perajin terampil dan bahan rotan tersedia di sekitar desa"
+          ],
+          [
+            "Kelemahan",
+            "Desain kurang beragam dan pemasaran hanya melalui pengepul"
+          ],
+          [
+            "Peluang",
+            "Permintaan mebel ramah lingkungan dari hotel dan pembeli luar negeri meningkat"
+          ],
+          [
+            "Ancaman",
+            "Mebel plastik pabrikan yang harganya lebih murah"
+          ]
+        ]
+      },
+      "pertanyaan": "Strategi pengembangan yang paling tepat berdasarkan data tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "memanfaatkan keterampilan perajin dan rotan setempat untuk membuat desain baru bertema ramah lingkungan, lalu memasarkannya langsung ke hotel dan pembeli luar negeri"
+        },
+        {
+          "kode": "B",
+          "teks": "beralih membuat mebel plastik agar dapat bersaing dengan harga mebel pabrikan"
+        },
+        {
+          "kode": "C",
+          "teks": "menjual seluruh rotan mentah ke luar daerah karena desain mebelnya kurang beragam"
+        },
+        {
+          "kode": "D",
+          "teks": "menurunkan harga serendah-rendahnya tanpa memperbaiki desain dan cara pemasaran"
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 23,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sedang",
+      "pengantar": "Perajin gerabah di sebuah desa kehilangan pembeli karena warga beralih ke peralatan dapur dari plastik dan logam. Sebagian perajin kemudian membuat pot hias dan suvenir bermotif khas daerah, serta membuka kelas membuat gerabah bagi wisatawan dan pelajar.",
+      "pertanyaan": "Langkah para perajin tersebut paling tepat disebut ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "meninggalkan budaya lokal karena gerabah tidak laku lagi"
+        },
+        {
+          "kode": "B",
+          "teks": "memproduksi barang yang sama tanpa perubahan agar tetap asli"
+        },
+        {
+          "kode": "C",
+          "teks": "inovasi produk dan jasa berbasis potensi lokal untuk menjangkau pasar baru"
+        },
+        {
+          "kode": "D",
+          "teks": "mengurangi kegiatan ekonomi desa karena pembeli makin sedikit"
+        }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 24,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan perbandingan dua upacara adat berikut!",
+      "tabel": {
+        "kolom": [
+          "Aspek",
+          "Rambu Solo (Toraja)",
+          "Ngaben (Bali)"
+        ],
+        "baris": [
+          [
+            "Bentuk upacara",
+            "Upacara pemakaman; jenazah disemayamkan di liang batu pada tebing atau kuburan batu",
+            "Upacara pembakaran jenazah"
+          ],
+          [
+            "Keyakinan",
+            "Mengantar arwah menuju alam roh",
+            "Mengembalikan unsur tubuh ke alam agar roh dapat melanjutkan perjalanannya"
+          ],
+          [
+            "Pelaksana",
+            "Keluarga besar dibantu warga kampung",
+            "Keluarga dibantu warga banjar"
+          ]
+        ]
+      },
+      "pertanyaan": "Kesimpulan yang paling tepat dari perbandingan tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Kedua upacara sama persis sehingga dapat dianggap sebagai satu tradisi yang sama."
+        },
+        {
+          "kode": "B",
+          "teks": "Cara pelaksanaannya berbeda, tetapi keduanya sama-sama wujud penghormatan kepada orang yang meninggal dan melibatkan kebersamaan masyarakat."
+        },
+        {
+          "kode": "C",
+          "teks": "Salah satu upacara lebih benar karena biayanya lebih besar daripada upacara lainnya."
+        },
+        {
+          "kode": "D",
+          "teks": "Kedua upacara hanya bertujuan sebagai pertunjukan wisata tanpa makna keyakinan."
+        }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 25,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pengantar": "Masyarakat Dayak mengenal rumah betang, yaitu rumah panjang yang dihuni banyak keluarga. Falsafah huma betang mengajarkan bahwa penghuni yang berbeda keluarga, bahkan berbeda agama, dapat hidup bersama dengan rukun, saling membantu, dan menyelesaikan masalah melalui musyawarah.",
+      "pertanyaan": "Nilai budaya utama dalam falsafah tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "kebersamaan dan toleransi dalam perbedaan"
+        },
+        {
+          "kode": "B",
+          "teks": "persaingan antarkeluarga dalam satu rumah"
+        },
+        {
+          "kode": "C",
+          "teks": "keharusan semua penghuni menganut agama yang sama"
+        },
+        {
+          "kode": "D",
+          "teks": "kebebasan setiap keluarga untuk tidak peduli kepada penghuni lain"
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 26,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sulit",
+      "pengantar": "Pada tahun 2020, UNESCO menetapkan pantun sebagai warisan budaya takbenda yang diajukan bersama oleh Indonesia dan Malaysia. Pantun hidup di kalangan masyarakat Melayu di kedua negara dan dipakai dalam upacara adat, lagu, serta pergaulan sehari-hari.",
+      "pertanyaan": "Sikap yang paling tepat terhadap peristiwa tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "menuntut agar pantun diakui hanya sebagai milik Indonesia"
+        },
+        {
+          "kode": "B",
+          "teks": "berhenti memakai pantun karena sudah dimiliki negara lain"
+        },
+        {
+          "kode": "C",
+          "teks": "menganggap pengakuan UNESCO sudah cukup sehingga pantun tidak perlu dilestarikan lagi"
+        },
+        {
+          "kode": "D",
+          "teks": "menyadari bahwa budaya dapat menjadi milik bersama masyarakat serumpun, lalu ikut melestarikannya"
+        }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 27,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pernyataan": [
+        {
+          "label": "1",
+          "teks": "Merekam dan menuliskan cerita rakyat yang dituturkan para tetua desa."
+        },
+        {
+          "label": "2",
+          "teks": "Mengubah gerakan tari sakral menjadi tontonan hiburan tanpa izin pemangku adat."
+        },
+        {
+          "label": "3",
+          "teks": "Membuka sanggar tari dan musik daerah bagi anak-anak."
+        },
+        {
+          "label": "4",
+          "teks": "Menjual benda pusaka adat kepada kolektor asing."
+        }
+      ],
+      "pertanyaan": "Tindakan yang tepat untuk melestarikan budaya daerah ditunjukkan oleh nomor ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "1 dan 2"
+        },
+        {
+          "kode": "B",
+          "teks": "2 dan 4"
+        },
+        {
+          "kode": "C",
+          "teks": "1 dan 3"
+        },
+        {
+          "kode": "D",
+          "teks": "3 dan 4"
+        }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 28,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pengantar": "Pada masa praaksara, manusia mula-mula hidup berpindah-pindah untuk berburu dan mengumpulkan makanan. Kemudian, mereka mulai menanam umbi-umbian dan padi serta menjinakkan hewan.",
+      "pertanyaan": "Perubahan kehidupan yang paling tepat sebagai akibat dari kegiatan bercocok tanam adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Manusia makin sering berpindah tempat karena harus mencari hewan buruan baru."
+        },
+        {
+          "kode": "B",
+          "teks": "Manusia mulai hidup menetap, membentuk perkampungan, dan membagi pekerjaan dalam kelompok."
+        },
+        {
+          "kode": "C",
+          "teks": "Manusia berhenti hidup berkelompok karena setiap orang dapat menanam sendiri."
+        },
+        {
+          "kode": "D",
+          "teks": "Manusia langsung mengenal tulisan dan mendirikan kerajaan-kerajaan besar."
+        }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 29,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pengantar": "Kerajaan Kutai meninggalkan tujuh prasasti berbentuk tiang batu yang disebut yupa. Prasasti itu ditulis dengan huruf Pallawa dan bahasa Sanskerta. Salah satunya menyebutkan bahwa Raja Mulawarman menghadiahkan 20.000 ekor sapi kepada kaum brahmana.",
+      "pertanyaan": "Informasi yang paling tepat ditafsirkan dari peninggalan tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Kutai telah mendapat pengaruh budaya India dan memiliki kemakmuran yang cukup besar."
+        },
+        {
+          "kode": "B",
+          "teks": "Masyarakat Kutai belum mengenal tulisan dan belum memiliki pemimpin."
+        },
+        {
+          "kode": "C",
+          "teks": "Kutai merupakan kerajaan Islam yang berdagang sapi dengan bangsa Eropa."
+        },
+        {
+          "kode": "D",
+          "teks": "Raja Mulawarman menolak kehadiran kaum brahmana di wilayahnya."
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 30,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pengantar": "Pada abad ke-16 hingga ke-17, Pelabuhan Banten ramai dikunjungi pedagang dari Tiongkok, India, Arab, Persia, dan Eropa untuk membeli lada. Di kota Banten kemudian tumbuh kampung-kampung pedagang asing, seperti Pecinan, di samping kampung penduduk setempat.",
+      "pertanyaan": "Akibat perdagangan bagi masyarakat Banten yang paling tepat adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Penduduk Banten berhenti bertani karena seluruh lada didatangkan dari luar negeri."
+        },
+        {
+          "kode": "B",
+          "teks": "Kota Banten tertutup bagi pendatang sehingga penduduknya tetap seragam."
+        },
+        {
+          "kode": "C",
+          "teks": "Perdagangan lada menjadikan Banten kerajaan Hindu terbesar di Jawa."
+        },
+        {
+          "kode": "D",
+          "teks": "Banten berkembang menjadi kota pelabuhan yang penduduknya beragam asal-usul dan budayanya."
+        }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 31,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pernyataan": [
+        {
+          "label": "1",
+          "teks": "Gajah Mada mengucapkan Sumpah Palapa."
+        },
+        {
+          "label": "2",
+          "teks": "Raja Mulawarman mendirikan yupa di Kutai."
+        },
+        {
+          "label": "3",
+          "teks": "Masjid Agung Demak didirikan."
+        },
+        {
+          "label": "4",
+          "teks": "Candi Borobudur dibangun pada masa Wangsa Syailendra."
+        }
+      ],
+      "pertanyaan": "Urutan peristiwa tersebut dari yang paling awal adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "2 2013 1 2013 4 2013 3"
+        },
+        {
+          "kode": "B",
+          "teks": "2 2013 4 2013 1 2013 3"
+        },
+        {
+          "kode": "C",
+          "teks": "4 2013 2 2013 1 2013 3"
+        },
+        {
+          "kode": "D",
+          "teks": "2 2013 4 2013 3 2013 1"
+        }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 32,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pengantar": "Pada awal abad ke-20, pemerintah kolonial Belanda menjalankan Politik Etis yang meliputi irigasi, emigrasi, dan edukasi. Sekolah dibuka terutama untuk menyiapkan tenaga kerja terdidik yang murah bagi pemerintah dan perusahaan Belanda. Namun, sebagian lulusan sekolah itu justru kemudian mendirikan organisasi pergerakan.",
+      "pertanyaan": "Hubungan sebab-akibat yang paling tepat dari peristiwa tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Politik Etis menghapus penjajahan sehingga organisasi pergerakan tidak lagi diperlukan."
+        },
+        {
+          "kode": "B",
+          "teks": "Organisasi pergerakan lahir lebih dahulu, lalu memaksa Belanda menjalankan Politik Etis."
+        },
+        {
+          "kode": "C",
+          "teks": "Pendidikan melahirkan kaum terpelajar yang menyadari ketidakadilan penjajahan, sehingga mereka berjuang melalui organisasi."
+        },
+        {
+          "kode": "D",
+          "teks": "Kaum terpelajar mendirikan organisasi untuk membantu Belanda mencari tenaga kerja murah."
+        }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 33,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pengantar": "Pada tahun 1817, rakyat Saparua, Maluku, di bawah pimpinan Thomas Matulessy atau Kapitan Pattimura menyerbu Benteng Duurstede. Perlawanan itu terjadi setelah Belanda kembali berkuasa di Maluku dan memberlakukan lagi kebijakan yang memberatkan rakyat, seperti kerja paksa dan kewajiban menyerahkan hasil bumi.",
+      "pertanyaan": "Penyebab utama perlawanan tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "penderitaan rakyat akibat kebijakan penjajah yang memberatkan"
+        },
+        {
+          "kode": "B",
+          "teks": "keinginan rakyat Saparua untuk menguasai perdagangan rempah di Eropa"
+        },
+        {
+          "kode": "C",
+          "teks": "perebutan takhta di antara keluarga bangsawan Maluku"
+        },
+        {
+          "kode": "D",
+          "teks": "penolakan rakyat terhadap kedatangan pedagang Tiongkok"
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 34,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sedang",
+      "pengantar": "Perhatikan daftar tokoh dan peran mereka di sekitar peristiwa Proklamasi berikut!",
+      "pernyataan": [
+        {
+          "label": "1",
+          "teks": "Sayuti Melik — mengetik naskah Proklamasi."
+        },
+        {
+          "label": "2",
+          "teks": "Laksamana Maeda — menyediakan rumahnya sebagai tempat merumuskan naskah Proklamasi."
+        },
+        {
+          "label": "3",
+          "teks": "Latif Hendraningrat — mengibarkan bendera Merah Putih bersama Suhud."
+        },
+        {
+          "label": "4",
+          "teks": "Ahmad Soebardjo — menjahit bendera Sang Saka Merah Putih."
+        }
+      ],
+      "pertanyaan": "Pasangan tokoh dan perannya yang benar ditunjukkan oleh nomor ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "1 dan 4"
+        },
+        {
+          "kode": "B",
+          "teks": "2 dan 4"
+        },
+        {
+          "kode": "C",
+          "teks": "1, 3, dan 4"
+        },
+        {
+          "kode": "D",
+          "teks": "1, 2, dan 3"
+        }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 35,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan rangkaian peristiwa di Surabaya pada akhir tahun 1945 berikut!",
+      "pernyataan": [
+        {
+          "label": "1",
+          "teks": "Brigjen A.W.S. Mallaby, pimpinan pasukan Inggris di Surabaya, tewas dalam sebuah insiden."
+        },
+        {
+          "label": "2",
+          "teks": "Inggris mengeluarkan ultimatum agar rakyat Surabaya menyerahkan senjata."
+        },
+        {
+          "label": "3",
+          "teks": "Rakyat Surabaya menolak ultimatum, lalu terjadi pertempuran besar pada 10 November 1945."
+        },
+        {
+          "label": "4",
+          "teks": "Tanggal 10 November kemudian ditetapkan sebagai Hari Pahlawan."
+        }
+      ],
+      "pertanyaan": "Hubungan sebab-akibat dan nilai perjuangan yang paling tepat dari rangkaian peristiwa tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Pertempuran terjadi karena rakyat Surabaya ingin membantu Inggris; nilainya adalah kesetiaan kepada sekutu."
+        },
+        {
+          "kode": "B",
+          "teks": "Tewasnya Mallaby memicu ultimatum Inggris, penolakan rakyat memicu pertempuran, dan keberanian rakyat dikenang sebagai nilai rela berkorban."
+        },
+        {
+          "kode": "C",
+          "teks": "Hari Pahlawan ditetapkan lebih dahulu, lalu rakyat Surabaya bertempur untuk memperingatinya."
+        },
+        {
+          "kode": "D",
+          "teks": "Ultimatum Inggris diterima rakyat sehingga pertempuran tidak pernah terjadi."
+        }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 36,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sulit",
+      "pengantar": "Siswa dari dua sekolah di sebuah kota beberapa kali terlibat tawuran. Hasil penelusuran menunjukkan pemicunya adalah saling ejek di media sosial dan dendam lama yang diwariskan dari kakak kelas. Selama ini, kedua sekolah hanya memberi hukuman setelah tawuran terjadi.",
+      "pertanyaan": "Langkah yang paling tepat untuk mencegah konflik tersebut terulang adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "melarang siswa kedua sekolah keluar rumah selama satu tahun"
+        },
+        {
+          "kode": "B",
+          "teks": "memberi hukuman yang lebih berat saja tanpa mengubah kegiatan apa pun"
+        },
+        {
+          "kode": "C",
+          "teks": "mempertemukan siswa kedua sekolah dalam kegiatan bersama, membina penggunaan media sosial, dan memutus tradisi dendam dari kakak kelas"
+        },
+        {
+          "kode": "D",
+          "teks": "memindahkan salah satu sekolah ke kota lain agar siswanya tidak pernah bertemu"
+        }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 37,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pengantar": "Bu Guru membentuk kelompok tugas secara acak. Raka menolak satu kelompok dengan Yohana karena berbeda suku dan agama, padahal Yohana pandai membuat peta yang dibutuhkan dalam tugas itu.",
+      "pertanyaan": "Sikap yang seharusnya ditunjukkan Raka adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "bekerja sama dengan Yohana dan menghargai kemampuannya tanpa memandang perbedaan latar belakang"
+        },
+        {
+          "kode": "B",
+          "teks": "meminta Bu Guru membentuk kelompok berdasarkan suku dan agama"
+        },
+        {
+          "kode": "C",
+          "teks": "mengerjakan tugas sendirian agar tidak perlu berbicara dengan Yohana"
+        },
+        {
+          "kode": "D",
+          "teks": "menerima Yohana hanya jika Yohana mau mengerjakan seluruh tugas kelompok"
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 38,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sulit",
+      "pengantar": "Kehadiran ojek daring di sebuah kota membuat penumpang ojek pangkalan berkurang, dan sempat terjadi ketegangan antara kedua kelompok pengemudi. Pemerintah kota kemudian mengatur titik penjemputan bersama, dan banyak pengemudi ojek pangkalan ikut bergabung dalam aplikasi.",
+      "pertanyaan": "Pernyataan yang paling tepat tentang peristiwa tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Perubahan teknologi selalu menghilangkan pekerjaan tanpa membuka peluang baru."
+        },
+        {
+          "kode": "B",
+          "teks": "Ketegangan seharusnya dibiarkan agar salah satu kelompok hilang dengan sendirinya."
+        },
+        {
+          "kode": "C",
+          "teks": "Ojek pangkalan sebaiknya dilarang karena tidak menggunakan teknologi."
+        },
+        {
+          "kode": "D",
+          "teks": "Perubahan sosial akibat teknologi dapat memicu konflik, tetapi dapat diatasi dengan aturan yang adil dan kemauan menyesuaikan diri."
+        }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 39,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sulit",
+      "pengantar": "Perhatikan hasil survei terhadap 200 siswa SD di sebuah kecamatan berikut!",
+      "tabel": {
+        "kolom": [
+          "Kegiatan",
+          "Rata-rata Waktu per Hari (2019)",
+          "Rata-rata Waktu per Hari (2024)"
+        ],
+        "baris": [
+          [
+            "Menggunakan gawai untuk hiburan",
+            "1 jam",
+            "4 jam"
+          ],
+          [
+            "Bermain di luar rumah",
+            "2 jam",
+            "0,5 jam"
+          ],
+          [
+            "Membaca buku",
+            "1 jam",
+            "0,5 jam"
+          ],
+          [
+            "Berbincang dengan keluarga",
+            "1,5 jam",
+            "0,5 jam"
+          ]
+        ]
+      },
+      "pertanyaan": "Masalah sosial yang paling tepat dari data tersebut dan solusi yang sesuai adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Siswa makin rajin membaca; sekolah perlu menambah jam belajar di rumah."
+        },
+        {
+          "kode": "B",
+          "teks": "Waktu siswa beralih ke hiburan gawai sehingga interaksi keluarga dan aktivitas fisik berkurang; keluarga dan sekolah perlu menyepakati batas waktu gawai serta memperbanyak kegiatan bersama."
+        },
+        {
+          "kode": "C",
+          "teks": "Siswa makin aktif bermain di luar rumah; orang tua perlu melarang anak keluar rumah."
+        },
+        {
+          "kode": "D",
+          "teks": "Penggunaan gawai menurun; sekolah perlu membagikan gawai baru kepada setiap siswa."
+        }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 40,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sedang",
+      "pengantar": "Sejak belanja daring makin populer, pembeli di sebuah pasar tradisional berkurang. Beberapa pedagang kemudian menerima pesanan melalui pesan singkat dan mengantar belanjaan ke rumah pembeli, tetapi tetap berjualan di lapak pasar.",
+      "pertanyaan": "Sikap para pedagang tersebut menunjukkan ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "kemampuan menyesuaikan diri terhadap perubahan sosial dengan memanfaatkan teknologi"
+        },
+        {
+          "kode": "B",
+          "teks": "penolakan terhadap teknologi agar pasar tradisional tetap seperti dahulu"
+        },
+        {
+          "kode": "C",
+          "teks": "keinginan menutup lapak pasar dan beralih sepenuhnya ke usaha lain"
+        },
+        {
+          "kode": "D",
+          "teks": "ketergantungan penuh pada teknologi sehingga hubungan dengan pembeli hilang"
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 41,
+      "tipe": "pg",
+      "materi": "Keragaman & Perubahan Sosial",
+      "kesulitan": "sulit",
+      "pengantar": "Di sejumlah desa di Mandailing Natal, Sumatra Utara, warga menetapkan sebagian aliran sungai sebagai lubuk larangan. Ikan di bagian itu tidak boleh ditangkap selama waktu yang disepakati. Setelah itu, ikan dipanen bersama, dan hasil penjualannya dipakai untuk membangun fasilitas desa, seperti masjid, sekolah, atau jalan.",
+      "pertanyaan": "Hubungan antara tradisi, lingkungan, ekonomi, dan kehidupan masyarakat yang paling tepat adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Tradisi tersebut hanya bertujuan menjaga sungai sehingga tidak memberi manfaat ekonomi."
+        },
+        {
+          "kode": "B",
+          "teks": "Tradisi tersebut membuat warga kehilangan sumber makanan sepanjang tahun."
+        },
+        {
+          "kode": "C",
+          "teks": "Larangan menjaga populasi ikan, panen bersama memberi pendapatan, dan hasilnya memperkuat kebersamaan serta pembangunan desa."
+        },
+        {
+          "kode": "D",
+          "teks": "Tradisi tersebut hanya menguntungkan segelintir orang karena hasil panen menjadi milik pribadi."
+        }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 42,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Masyarakat Pulau Simeulue, Aceh, mewariskan cerita dan syair tentang smong. Isinya: jika terjadi gempa kuat lalu air laut tiba-tiba surut, warga harus segera lari ke tempat tinggi. Saat tsunami tahun 2004, sebagian besar warga Simeulue selamat karena segera mengungsi ke perbukitan.",
+      "pertanyaan": "Makna utama kearifan lokal tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Cerita rakyat hanya berfungsi sebagai hiburan dan tidak berkaitan dengan kehidupan nyata."
+        },
+        {
+          "kode": "B",
+          "teks": "Pengetahuan tentang tanda-tanda alam yang diwariskan turun-temurun dapat mengurangi korban bencana."
+        },
+        {
+          "kode": "C",
+          "teks": "Warga sebaiknya mendekati pantai saat air laut surut untuk mengambil ikan yang terdampar."
+        },
+        {
+          "kode": "D",
+          "teks": "Tsunami dapat dicegah sepenuhnya apabila warga menghafal syair tentang smong."
+        }
+      ],
+      "kunci": "B"
+    },
+    {
+      "id": 43,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Di Aceh terdapat lembaga adat Panglima Laot yang mengatur kehidupan nelayan. Lembaga ini melarang nelayan melaut pada hari-hari tertentu, seperti hari Jumat, melarang penggunaan alat tangkap yang merusak, dan menyelesaikan perselisihan antarnelayan secara adat.",
+      "pertanyaan": "Peran lembaga adat tersebut yang paling tepat adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "hanya mengatur upacara adat tanpa berkaitan dengan pekerjaan nelayan"
+        },
+        {
+          "kode": "B",
+          "teks": "mendorong nelayan menangkap ikan sebanyak-banyaknya setiap hari tanpa batas"
+        },
+        {
+          "kode": "C",
+          "teks": "menggantikan seluruh peran pemerintah dalam mengatur perdagangan ikan"
+        },
+        {
+          "kode": "D",
+          "teks": "menjaga kelestarian laut, keberlanjutan penghasilan nelayan, dan kerukunan antarnelayan"
+        }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 44,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Pemerintah kabupaten akan membangun pasar ikan higienis. Pasar harus mudah dijangkau nelayan dan pembeli, serta tidak mudah terendam banjir karena ikan cepat busuk jika pasokan terhambat. Perhatikan peta dan data berikut!",
+      "gambar": {
+        "jenis": "deskripsi",
+        "deskripsi": "Peta menunjukkan garis pantai di bagian utara. Pelabuhan perikanan berada di pantai. Sebuah sungai besar mengalir dari selatan ke utara dan bermuara di sebelah barat pelabuhan. Lokasi K berada di dataran agak tinggi di sebelah timur pelabuhan, Lokasi L berada di dataran rendah tepat di tepi muara sungai, dan Lokasi M berada jauh di pedalaman selatan dekat kota kecamatan.",
+        "alt": "Peta pesisir dengan pelabuhan, muara sungai, dan tiga calon lokasi pasar ikan K, L, dan M."
+      },
+      "tabel": {
+        "kolom": [
+          "Lokasi",
+          "Jarak ke Pelabuhan",
+          "Kondisi Jalan",
+          "Banjir dalam 5 Tahun Terakhir"
+        ],
+        "baris": [
+          [
+            "K",
+            "1,5 km",
+            "Aspal, terhubung ke kota",
+            "0 kali"
+          ],
+          [
+            "L",
+            "0,5 km",
+            "Jalan tanah",
+            "7 kali"
+          ],
+          [
+            "M",
+            "18 km",
+            "Aspal",
+            "0 kali"
+          ]
+        ]
+      },
+      "pertanyaan": "Lokasi yang paling tepat dengan menghubungkan teks, peta, dan tabel adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "K, karena dekat dengan pelabuhan, jalannya baik, dan tidak pernah terendam banjir."
+        },
+        {
+          "kode": "B",
+          "teks": "L, karena paling dekat dengan pelabuhan sehingga risiko banjir dapat diabaikan."
+        },
+        {
+          "kode": "C",
+          "teks": "M, karena dekat dengan kota kecamatan meskipun jauh dari tempat nelayan mendaratkan ikan."
+        },
+        {
+          "kode": "D",
+          "teks": "L, karena letaknya di muara sungai sehingga air untuk mencuci ikan melimpah."
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 45,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Pengelola sebuah pantai wisata mengira sampah bertambah hanya karena jumlah pengunjung naik, sehingga mereka berencana membatasi jumlah pengunjung. Perhatikan foto dan data berikut!",
+      "gambar": {
+        "jenis": "deskripsi",
+        "deskripsi": "Foto pantai menunjukkan banyak gelas plastik, kemasan makanan, dan sedotan berserakan di sekitar warung-warung di tepi pantai, sedangkan tempat sampah hanya terlihat di dekat pintu masuk.",
+        "alt": "Foto pantai dengan sampah plastik di sekitar warung dan tempat sampah hanya di pintu masuk."
+      },
+      "tabel": {
+        "kolom": [
+          "Tahun",
+          "Jumlah Pengunjung",
+          "Jumlah Sampah"
+        ],
+        "baris": [
+          [
+            "2022",
+            "20.000 orang",
+            "4 ton"
+          ],
+          [
+            "2023",
+            "30.000 orang",
+            "7,5 ton"
+          ],
+          [
+            "2024",
+            "40.000 orang",
+            "12 ton"
+          ]
+        ]
+      },
+      "pertanyaan": "Kesimpulan yang paling tepat dengan menghubungkan teks, tabel, dan gambar adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Sampah per pengunjung tetap 0,2 kg, sehingga membatasi pengunjung adalah satu-satunya solusi."
+        },
+        {
+          "kode": "B",
+          "teks": "Sampah per pengunjung turun setiap tahun, sehingga pengelola tidak perlu melakukan apa pun."
+        },
+        {
+          "kode": "C",
+          "teks": "Sampah per pengunjung naik dari 0,2 kg menjadi 0,3 kg, sehingga perlu pengurangan kemasan sekali pakai di warung dan penambahan tempat sampah."
+        },
+        {
+          "kode": "D",
+          "teks": "Sampah per pengunjung naik dari 2 kg menjadi 3 kg, sehingga pantai harus ditutup untuk wisatawan."
+        }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 46,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pengantar": "Pada abad ke-15, pala dan cengkih hanya tumbuh di Kepulauan Maluku. Rempah dibawa pedagang Nusantara ke Malaka, lalu dibawa pedagang Asia lain ke Asia Barat, dan akhirnya dibawa pedagang Venesia ke kota-kota Eropa. Perhatikan peta dan data berikut!",
+      "gambar": {
+        "jenis": "deskripsi",
+        "deskripsi": "Peta jalur perdagangan rempah dengan panah dari Maluku ke Makassar, pesisir utara Jawa, Malaka, India, Asia Barat, Laut Tengah, lalu kota-kota Eropa.",
+        "alt": "Peta jalur rempah dari Maluku melalui Malaka dan Asia Barat hingga Eropa."
+      },
+      "tabel": {
+        "kolom": [
+          "Tempat",
+          "Perbandingan Harga Satu Karung Pala (ilustrasi)"
+        ],
+        "baris": [
+          [
+            "Banda (Maluku)",
+            "1 kali"
+          ],
+          [
+            "Malaka",
+            "10 kali"
+          ],
+          [
+            "Venesia (Eropa)",
+            "100 kali"
+          ]
+        ]
+      },
+      "pertanyaan": "Hubungan antarinformasi yang paling tepat adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Harga pala sama di semua tempat karena pala tumbuh di seluruh dunia."
+        },
+        {
+          "kode": "B",
+          "teks": "Harga pala paling tinggi di Banda karena di sanalah pala paling sulit diperoleh."
+        },
+        {
+          "kode": "C",
+          "teks": "Pala hanya diperdagangkan di dalam Nusantara dan tidak pernah sampai ke Eropa."
+        },
+        {
+          "kode": "D",
+          "teks": "Harga pala naik berlipat karena jalurnya panjang dan melalui banyak perantara, sehingga bangsa Eropa terdorong mencari jalan langsung ke Maluku."
+        }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 47,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sulit",
+      "pengantar": "Sebuah desa di sekitar candi bersejarah dikunjungi makin banyak wisatawan. Namun, sebagian besar wisatawan hanya datang ke candi lalu pergi, sawah di tepi jalan berubah menjadi lahan parkir, sampah meningkat, dan warga lebih banyak menjadi penonton daripada pelaku usaha. Desa itu memiliki pemandangan sawah, kerajinan gerabah, dan kesenian tradisional.",
+      "pertanyaan": "Program yang paling tepat untuk menjawab masalah geografi, ekonomi, sosial, budaya, dan sejarah tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "memperluas lahan parkir dengan mengubah seluruh sawah agar lebih banyak bus wisata dapat datang"
+        },
+        {
+          "kode": "B",
+          "teks": "membangun hotel besar milik investor dari luar dan memindahkan warga ke luar desa"
+        },
+        {
+          "kode": "C",
+          "teks": "melarang wisatawan masuk ke desa agar candi tetap sepi dan terjaga"
+        },
+        {
+          "kode": "D",
+          "teks": "mengembangkan paket wisata desa yang dikelola warga, seperti homestay, kelas gerabah, dan pentas seni, sambil melindungi sawah, menata parkir, dan mengelola sampah"
+        }
+      ],
+      "kunci": "D"
+    },
+    {
+      "id": 48,
+      "tipe": "pg",
+      "materi": "Kegiatan Ekonomi",
+      "kesulitan": "sulit",
+      "pengantar": "Sebuah kawasan perkebunan teh di pegunungan dibuka pada masa kolonial dan masih memiliki bangunan pabrik tua. Kini harga teh turun, banyak pemuda merantau, dan sebagian lereng mulai dibuka menjadi kebun sayur tanpa teras sehingga rawan longsor. Pemerintah daerah membandingkan tiga rencana berikut.",
+      "tabel": {
+        "kolom": [
+          "Rencana",
+          "Isi Rencana",
+          "Perkiraan Dampak"
+        ],
+        "baris": [
+          [
+            "I",
+            "Mengganti seluruh kebun teh menjadi kebun sayur",
+            "Pendapatan naik sementara; erosi dan longsor meningkat"
+          ],
+          [
+            "II",
+            "Agrowisata teh dan wisata sejarah pabrik tua yang dikelola warga, disertai pembuatan teras dan pelatihan pemuda",
+            "Pendapatan bertambah; lereng terjaga; peninggalan sejarah dirawat; pemuda mendapat pekerjaan"
+          ],
+          [
+            "III",
+            "Membongkar pabrik tua dan menjual lahannya untuk vila pribadi",
+            "Pendapatan besar bagi sedikit orang; peninggalan sejarah hilang; daerah resapan berkurang"
+          ]
+        ]
+      },
+      "pertanyaan": "Rencana yang paling tepat dan alasannya adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "Rencana II, karena menyeimbangkan manfaat ekonomi, kelestarian lingkungan, pelestarian sejarah, dan kesempatan kerja warga."
+        },
+        {
+          "kode": "B",
+          "teks": "Rencana I, karena pendapatan dari sayur lebih cepat diperoleh dan longsor bukan masalah penting."
+        },
+        {
+          "kode": "C",
+          "teks": "Rencana III, karena pendapatannya paling besar walaupun hanya dinikmati sedikit orang."
+        },
+        {
+          "kode": "D",
+          "teks": "Rencana I dan III dijalankan sekaligus agar lahan teh dan pabrik tua cepat menghasilkan uang."
+        }
+      ],
+      "kunci": "A"
+    },
+    {
+      "id": 49,
+      "tipe": "pg",
+      "materi": "Kenampakan Alam, Sosial & Budaya",
+      "kesulitan": "sulit",
+      "pengantar": "Sebuah desa di tepi sungai besar di Kalimantan Selatan tergenang setiap musim hujan. Rumah panggung milik warga lama tetap aman, tetapi rumah tembok tanpa kolong milik warga pendatang selalu terendam. Warga pendatang juga menimbun rawa untuk kebun sehingga genangan meluas ke rumah warga lama. Perselisihan mulai muncul di antara kedua kelompok.",
+      "pertanyaan": "Langkah yang paling tepat untuk kasus tersebut adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "mengusir warga pendatang dari desa agar perselisihan segera berakhir"
+        },
+        {
+          "kode": "B",
+          "teks": "mewajibkan warga lama membongkar rumah panggung dan menggantinya dengan rumah tembok"
+        },
+        {
+          "kode": "C",
+          "teks": "bermusyawarah untuk mengatur penimbunan rawa, mengenalkan rumah panggung yang sesuai dengan lingkungan kepada pendatang, dan menata saluran air bersama"
+        },
+        {
+          "kode": "D",
+          "teks": "menimbun seluruh rawa di desa agar tidak ada lagi genangan"
+        }
+      ],
+      "kunci": "C"
+    },
+    {
+      "id": 50,
+      "tipe": "pg",
+      "materi": "Sejarah Indonesia",
+      "kesulitan": "sulit",
+      "pengantar": "Desa Tana Beru di Bulukumba, Sulawesi Selatan, terkenal sebagai tempat pembuatan kapal pinisi, yang seni pembuatannya diakui UNESCO pada tahun 2017. Kini, kayu bahan kapal makin sulit diperoleh karena hutan di sekitarnya berkurang, pesanan kapal wisata justru meningkat, dan makin sedikit pemuda yang mau belajar dari para pembuat kapal senior.",
+      "pertanyaan": "Kebijakan yang paling tepat untuk menjaga tradisi sekaligus kehidupan ekonomi warga adalah ...",
+      "opsi": [
+        {
+          "kode": "A",
+          "teks": "mengganti seluruh kapal pinisi dengan kapal besi buatan pabrik agar tidak lagi memerlukan kayu"
+        },
+        {
+          "kode": "B",
+          "teks": "mengembangkan hutan rakyat untuk bahan kayu, mengadakan program magang pemuda bersama pembuat kapal senior, dan membuka wisata edukasi pembuatan pinisi"
+        },
+        {
+          "kode": "C",
+          "teks": "menebang hutan di daerah lain sebanyak-banyaknya agar semua pesanan kapal wisata terpenuhi"
+        },
+        {
+          "kode": "D",
+          "teks": "menghentikan penerimaan pesanan kapal agar tradisi tetap asli tanpa perubahan"
+        }
+      ],
+      "kunci": "B"
+    }
+  ]
+}
